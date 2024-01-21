@@ -10,7 +10,7 @@ jeremy_mention = mention(label="Jeremy",
 julian_mention = mention(label="Julian",
                          url="https://github.com/jln83", write=False)
 tristan_mention = mention(label="Tristan",
-                          url="", write=False)
+                          url="https://github.com/Patatosaurus666", write=False)
 columns1, columns2 = st.columns(2)
 with columns1:
     st.subheader("Organisation du projet et formalités")

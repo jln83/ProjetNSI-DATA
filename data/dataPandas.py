@@ -1,7 +1,7 @@
 import pandas
 
 # Importation du fichier csv et tri des colonnes:
-consommation = pandas.read_csv(r"U:\Info\Python\Projects\ProjetDataWebApp\data\fichierDATA-CONSO.csv")
+consommation = pandas.read_csv(r"data/fichierDATA-CONSO.csv")
 consommation_appareils_kWh = consommation[["Appareil suivi", "Consommation annuelle AN1"]]
 
 # Création des moyennes de consommation de différents appareils:

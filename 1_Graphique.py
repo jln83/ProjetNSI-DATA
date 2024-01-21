@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 from streamlit_extras.app_logo import add_logo
 
 st.set_page_config(page_title="Projet DATA", page_icon="📟", layout="wide", initial_sidebar_state="expanded")
-add_logo(r"U:\Info\Python\Projects\ProjetDataWebApp\images\cat-64.png", height=50)
+add_logo(r"images/cat-64.png", height=50)
 
 figureTeleviseursHtml = mpld3.fig_to_html(figureTeleviseurs)
 figureComparaisonHtml = mpld3.fig_to_html(figureComparaison)
