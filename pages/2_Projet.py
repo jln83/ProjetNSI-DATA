@@ -3,7 +3,7 @@ from streamlit_extras.app_logo import add_logo
 from streamlit_extras.mention import mention
 
 st.set_page_config(page_title="Projet DATA", page_icon="📟", layout="wide", initial_sidebar_state="expanded")
-add_logo(r"U:\Info\Python\Projects\Projet-DATA\App\images\cat-64.png", height=50)
+add_logo(r"images/cat-64.png", height=50)
 
 jeremy_mention = mention(label="Jeremy",
                          url="https://github.com/JeremyMrz", write=False)
