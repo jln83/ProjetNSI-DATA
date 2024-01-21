@@ -1,0 +1,2264 @@
+Appareil suivi,ID logement,Consommation annuelle AN1,Consommation annuelle AN2,Type
+Audio_TV,106,1.7,,Barre De Son
+Audio_TV,302,22.2,16.7,Barre De Son
+Audio_TV,311,14.7,13.0,Barre De Son
+Audio_TV,410,7.8,7.8,Barre De Son
+Audio_TV,608,7.9,7.5,Barre De Son
+Audio_TV,808,0.8,,Barre De Son
+Audio_TV,302,6.4,6.9,Barre De Son 2
+Audio_TV,202,10.0,14.0,Home Cinema
+Audio_TV,209,0.5,0.0,Home Cinema
+Audio_TV,402,18.7,1.2,Home Cinema
+Audio_TV,405,6.6,0.3,Home Cinema
+Audio_TV,602,1.1,1.1,Home Cinema
+Audio_TV,1010,59.3,115.6,Home Cinema
+Audio_TV,121,,8.3,Barre De Son
+Audio_TV,122,,21.0,Barre De Son
+Audio_TV,823,,16.3,Barre De Son
+Audio_TV,721,,3.2,Home Cinema
+Bouilloires,108,20.8,,
+Bouilloires,201,1.6,,
+Bouilloires,205,82.7,88.7,
+Bouilloires,206,72.9,77.0,
+Bouilloires,207,56.0,43.2,
+Bouilloires,208,9.8,,
+Bouilloires,210,96.2,99.1,
+Bouilloires,301,15.1,16.5,
+Bouilloires,303,43.9,41.7,
+Bouilloires,309,40.9,33.9,
+Bouilloires,310,45.2,52.5,
+Bouilloires,311,34.2,42.5,
+Bouilloires,401,33.5,,
+Bouilloires,406,50.3,65.0,
+Bouilloires,409,41.9,49.0,
+Bouilloires,410,45.6,89.8,
+Bouilloires,502,50.7,62.8,
+Bouilloires,504,26.4,11.4,
+Bouilloires,506,6.6,9.1,
+Bouilloires,508,29.1,35.8,
+Bouilloires,510,44.2,47.2,
+Bouilloires,603,60.0,10.4,
+Bouilloires,605,29.1,48.6,
+Bouilloires,607,53.3,16.1,
+Bouilloires,706,59.7,53.2,
+Bouilloires,707,14.2,24.2,
+Bouilloires,708,30.0,,
+Bouilloires,802,0.4,,
+Bouilloires,803,88.7,97.2,
+Bouilloires,804,16.6,17.3,
+Bouilloires,805,119.4,134.4,
+Bouilloires,809,68.4,,
+Bouilloires,909,103.4,85.0,
+Bouilloires,911,66.4,49.7,
+Bouilloires,1001,113.3,63.4,
+Bouilloires,1002,59.5,66.2,
+Bouilloires,1004,63.7,59.1,
+Bouilloires,1005,36.8,45.9,
+Bouilloires,1007,86.2,47.5,
+Bouilloires,1011,62.2,51.8,
+Bouilloires,101,,5.3,
+Bouilloires,105,,173.5,
+Bouilloires,107,,68.9,
+Bouilloires,121,,45.1,
+Bouilloires,320,,7.0,
+Bouilloires,421,,59.4,
+Box Internet,101,129.4,135.0,
+Box Internet,102,76.8,85.4,
+Box Internet,103,78.6,79.0,
+Box Internet,104,96.4,,
+Box Internet,105,49.6,52.5,
+Box Internet,106,258.0,,
+Box Internet,107,22.3,,
+Box Internet,108,4.9,,
+Box Internet,109,147.2,,
+Box Internet,110,126.3,117.9,
+Box Internet,201,38.3,38.3,
+Box Internet,202,83.2,84.7,
+Box Internet,203,15.5,17.2,
+Box Internet,204,90.3,100.5,
+Box Internet,205,95.3,87.3,
+Box Internet,206,44.5,128.8,
+Box Internet,207,55.4,55.2,
+Box Internet,208,27.5,,
+Box Internet,209,119.5,133.2,
+Box Internet,210,141.9,80.5,
+Box Internet,301,145.1,105.9,
+Box Internet,302,59.9,54.2,
+Box Internet,303,80.0,158.2,
+Box Internet,304,66.6,,
+Box Internet,305,152.5,145.4,
+Box Internet,306,70.9,103.9,
+Box Internet,307,72.6,,
+Box Internet,308,83.5,83.9,
+Box Internet,309,75.9,85.8,
+Box Internet,310,22.7,41.6,
+Box Internet,311,160.4,128.2,
+Box Internet,401,101.7,,
+Box Internet,402,30.9,59.3,
+Box Internet,403,75.6,69.5,
+Box Internet,404,87.4,82.8,
+Box Internet,405,102.6,102.9,
+Box Internet,406,221.5,114.6,
+Box Internet,407,62.0,41.5,
+Box Internet,408,71.7,,
+Box Internet,410,121.4,98.3,
+Box Internet,501,95.5,,
+Box Internet,502,104.9,216.4,
+Box Internet,503,64.2,67.5,
+Box Internet,504,21.6,31.1,
+Box Internet,505,76.5,59.2,
+Box Internet,506,137.9,147.1,
+Box Internet,507,72.4,75.8,
+Box Internet,508,87.6,52.6,
+Box Internet,509,159.7,,
+Box Internet,510,109.0,95.1,
+Box Internet,601,81.4,75.3,
+Box Internet,602,194.8,149.4,
+Box Internet,603,61.7,65.3,
+Box Internet,604,204.1,192.3,
+Box Internet,605,79.6,91.1,
+Box Internet,606,49.4,67.1,
+Box Internet,607,111.1,175.5,
+Box Internet,608,73.9,78.1,
+Box Internet,701,76.4,,
+Box Internet,702,62.5,72.5,
+Box Internet,703,76.8,78.4,
+Box Internet,704,61.0,79.2,
+Box Internet,705,146.2,186.2,
+Box Internet,706,33.0,95.0,
+Box Internet,707,58.5,68.9,
+Box Internet,708,79.7,,
+Box Internet,709,69.9,73.9,
+Box Internet,801,51.4,47.2,
+Box Internet,802,150.5,,
+Box Internet,803,85.4,93.7,
+Box Internet,804,106.9,85.0,
+Box Internet,805,70.0,68.3,
+Box Internet,806,70.6,70.4,
+Box Internet,807,83.3,84.7,
+Box Internet,808,151.8,,
+Box Internet,809,57.5,,
+Box Internet,810,85.2,52.5,
+Box Internet,902,93.7,71.1,
+Box Internet,903,203.7,89.1,
+Box Internet,904,184.9,,
+Box Internet,905,208.7,144.9,
+Box Internet,906,26.2,,
+Box Internet,907,92.0,146.6,
+Box Internet,908,163.7,162.9,
+Box Internet,909,48.4,20.1,
+Box Internet,910,75.2,,
+Box Internet,911,70.6,68.3,
+Box Internet,912,71.9,75.3,
+Box Internet,1001,74.1,212.2,
+Box Internet,1002,73.9,80.3,
+Box Internet,1003,63.6,80.7,
+Box Internet,1004,47.6,48.6,
+Box Internet,1005,209.5,209.0,
+Box Internet,1006,159.3,163.6,
+Box Internet,1007,200.8,215.5,
+Box Internet,1008,154.0,,
+Box Internet,1009,98.5,94.9,
+Box Internet,1010,180.7,179.8,
+Box Internet,1011,74.4,76.2,
+Box Internet,120,,72.9,
+Box Internet,121,,187.3,
+Box Internet,122,,80.3,
+Box Internet,123,,100.3,
+Box Internet,320,,70.5,
+Box Internet,326,,68.2,
+Box Internet,420,,136.8,
+Box Internet,421,,49.1,
+Box Internet,520,,86.0,
+Box Internet,620,,294.3,
+Box Internet,720,,68.3,
+Box Internet,721,,73.0,
+Box Internet,722,,151.4,
+Box Internet,820,,95.7,
+Box Internet,821,,73.1,
+Box Internet,822,,87.8,
+Box Internet,823,,74.9,
+Box Internet,921,,69.3,
+Box Internet,922,,71.4,
+Box TV,101,59.6,63.6,
+Box TV,102,90.0,16.4,
+Box TV,103,62.8,45.0,
+Box TV,105,80.4,86.3,
+Box TV,107,36.9,,
+Box TV,109,158.8,,
+Box TV,201,71.4,49.5,
+Box TV,202,108.6,102.8,
+Box TV,204,108.6,,
+Box TV,204,108.6,,
+Box TV,205,22.6,24.3,
+Box TV,207,57.4,57.5,
+Box TV,209,115.8,99.6,
+Box TV,301,70.5,14.1,
+Box TV,302,91.3,85.9,
+Box TV,303,76.3,106.4,
+Box TV,304,36.1,,
+Box TV,306,85.4,85.5,
+Box TV,307,38.5,,
+Box TV,308,113.9,116.5,
+Box TV,310,113.9,113.9,
+Box TV,311,133.6,127.3,
+Box TV,401,125.0,,
+Box TV,401,125.0,,
+Box TV,403,77.3,111.2,
+Box TV,404,88.6,68.0,
+Box TV,408,13.9,,
+Box TV,410,60.7,38.8,
+Box TV,502,130.2,61.5,
+Box TV,503,62.6,60.0,
+Box TV,506,94.1,68.0,
+Box TV,507,92.4,86.7,
+Box TV,508,73.5,61.5,
+Box TV,509,126.0,,
+Box TV,510,113.3,93.4,
+Box TV,601,53.8,39.2,
+Box TV,602,120.2,116.8,
+Box TV,603,71.3,106.1,
+Box TV,604,135.3,95.2,
+Box TV,605,47.7,44.1,
+Box TV,607,57.2,17.9,
+Box TV,608,145.8,146.5,
+Box TV,701,145.8,,
+Box TV,702,46.7,43.7,
+Box TV,703,72.4,34.5,
+Box TV,704,123.5,122.2,
+Box TV,705,18.3,12.8,
+Box TV,706,27.6,111.7,
+Box TV,707,68.5,67.3,
+Box TV,708,86.7,,
+Box TV,709,103.4,108.4,
+Box TV,801,45.4,28.1,
+Box TV,802,132.5,,
+Box TV,803,6.0,146.8,
+Box TV,804,124.2,141.2,
+Box TV,806,54.2,58.7,
+Box TV,807,109.0,112.4,
+Box TV,902,111.5,34.8,
+Box TV,903,103.9,10.9,
+Box TV,904,115.3,,
+Box TV,905,127.4,142.6,
+Box TV,907,88.0,56.1,
+Box TV,908,90.4,91.2,
+Box TV,910,59.5,,
+Box TV,911,114.0,135.6,
+Box TV,912,29.8,12.5,
+Box TV,1001,82.3,61.6,
+Box TV,1002,158.7,179.2,
+Box TV,1003,32.1,36.4,
+Box TV,1005,116.1,111.9,
+Box TV,1006,39.4,30.7,
+Box TV,1007,40.1,,
+Box TV,1008,120.4,,
+Box TV,1010,107.0,91.7,
+Box TV,1011,139.1,96.2,
+Box TV,121,,9.7,
+Box TV,122,,132.9,
+Box TV,123,,106.1,
+Box TV,320,,40.0,
+Box TV,326,,45.2,
+Box TV,402,,18.4,
+Box TV,420,,96.2,
+Box TV,421,,110.7,
+Box TV,720,,86.6,
+Box TV,721,,99.4,
+Box TV,722,,155.4,
+Box TV,820,,75.3,
+Box TV,822,,151.5,
+Box TV,823,,21.9,
+Box TV,921,,59.4,
+Box TV,921,,40.8,
+Box TV,922,,124.0,
+Cafetiere_expresso,101,21.2,10.3,
+Cafetiere_expresso,102,29.1,15.7,
+Cafetiere_expresso,104,16.2,,
+Cafetiere_expresso,105,16.6,10.0,
+Cafetiere_expresso,107,52.1,,
+Cafetiere_expresso,108,31.3,,
+Cafetiere_expresso,109,9.1,,
+Cafetiere_expresso,110,9.2,6.5,
+Cafetiere_expresso,209,6.3,5.1,
+Cafetiere_expresso,305,14.3,20.6,
+Cafetiere_expresso,307,34.1,,
+Cafetiere_expresso,311,25.8,28.2,
+Cafetiere_expresso,406,25.5,24.5,
+Cafetiere_expresso,503,13.6,13.6,
+Cafetiere_expresso,510,6.6,6.2,
+Cafetiere_expresso,602,33.5,34.1,
+Cafetiere_expresso,603,6.4,22.4,
+Cafetiere_expresso,605,37.0,46.1,
+Cafetiere_expresso,607,33.3,73.6,
+Cafetiere_expresso,701,10.3,,
+Cafetiere_expresso,702,32.1,25.7,
+Cafetiere_expresso,704,17.9,22.1,
+Cafetiere_expresso,801,28.3,22.2,
+Cafetiere_expresso,804,20.7,28.5,
+Cafetiere_expresso,806,56.4,70.5,
+Cafetiere_expresso,807,10.9,14.8,
+Cafetiere_expresso,810,24.0,,
+Cafetiere_expresso,902,82.1,76.6,
+Cafetiere_expresso,911,19.9,23.3,
+Cafetiere_expresso,912,57.0,71.3,
+Cafetiere_expresso,1004,24.1,16.2,
+Cafetiere_expresso,1006,16.3,29.9,
+Cafetiere_expresso,1007,4.7,4.7,
+Cafetiere_expresso,1010,8.9,10.1,
+Cafetiere_expresso,303,,14.0,
+Cafetiere_expresso,705,,5.2,
+Cafetiere_expresso,721,,14.4,
+Cafetiere_expresso,722,,3.9,
+Cafetiere_expresso,820,,14.5,
+Cafetiere_expresso,823,,6.0,
+Cafetiere_expresso,707,,16.6,
+Cafetiere_filtre,201,19.8,19.8,
+Cafetiere_filtre,202,48.6,59.7,
+Cafetiere_filtre,204,39.2,47.6,
+Cafetiere_filtre,208,34.5,,
+Cafetiere_filtre,209,36.7,31.2,
+Cafetiere_filtre,301,73.7,90.7,
+Cafetiere_filtre,302,10.2,9.9,
+Cafetiere_filtre,306,66.1,67.3,
+Cafetiere_filtre,308,16.2,12.0,
+Cafetiere_filtre,403,16.8,5.8,
+Cafetiere_filtre,410,58.4,22.8,
+Cafetiere_filtre,706,45.3,37.9,
+Cafetiere_filtre,707,20.6,15.5,
+Cafetiere_filtre,709,3.8,8.6,
+Cafetiere_filtre,1003,42.8,27.0,
+Cafetiere_filtre,120,,33.4,
+Cafetiere_filtre,326,,12.0,
+Cafetiere_filtre,508,,4.0,
+Cafetiere_filtre,620,,66.6,
+Cafetiere_filtre,720,,33.4,
+Cafetiere_filtre,803,,40.9,
+Cave e vin,304,367.9,,
+Cave e vin,311,76.0,79.4,
+Cave e vin,406,150.4,159.4,
+Cave e vin,502,159.9,159.8,
+Cave e vin,607,226.2,193.6,
+Cave e vin,1010,354.0,349.4,
+Cave e vin,720,,505.7,
+Cave e vin,902,,353.2,
+Chambre froide,911,1404.0,1715.9,
+Chambre froide,1010,0.0,0.0,
+Chaudieres,102,175.2,216.8,GAZ
+Chaudieres,104,119.1,,GAZ
+Chaudieres,107,195.0,83.0,GAZ
+Chaudieres,109,178.5,,GAZ
+Chaudieres,110,49.6,52.9,GAZ
+Chaudieres,121,,375.1,GAZ
+Chaudieres,122,,81.2,GAZ
+Chaudieres,201,96.7,117.4,FIOUL
+Chaudieres,206,589.7,478.1,GAZ
+Chaudieres,208,50.3,,GAZ
+Chaudieres,210,364.5,567.2,GAZ
+Chaudieres,305,226.8,175.5,GAZ
+Chaudieres,308,62.6,59.4,GAZ
+Chaudieres,309,93.6,92.7,GAZ
+Chaudieres,311,123.9,168.2,GAZ
+Chaudieres,403,273.4,215.5,GAZ
+Chaudieres,404,287.3,279.2,GAZ
+Chaudieres,420,,37.2,GAZ
+Chaudieres,501,81.7,,GAZ
+Chaudieres,504,88.9,103.8,GAZ
+Chaudieres,505,83.1,85.0,GAZ
+Chaudieres,508,235.4,225.5,GAZ
+Chaudieres,509,86.8,,GAZ
+Chaudieres,510,72.6,131.2,FIOUL
+Chaudieres,601,,128.1,GAZ
+Chaudieres,603,347.2,307.0,GAZ
+Chaudieres,604,233.2,196.7,GAZ
+Chaudieres,605,126.6,141.3,GAZ
+Chaudieres,607,201.5,203.6,GAZ
+Chaudieres,608,318.6,403.0,GAZ
+Chaudieres,620,,622.6,GAZ
+Chaudieres,701,58.7,,FIOUL
+Chaudieres,702,196.2,199.0,GAZ
+Chaudieres,704,371.9,532.8,FIOUL
+Chaudieres,708,55.3,,GAZ
+Chaudieres,722,,235.5,FIOUL
+Chaudieres,802,-901.5,,COGe GAZ
+Chaudieres,822,,82.3,GAZ
+Chaudieres,903,111.9,137.1,GAZ
+Chaudieres,904,59.3,,GAZ
+Chaudieres,911,903.8,784.8,FIOUL
+Chaudieres,1004,613.3,364.9,FIOUL
+Chaudieres,1005,63.7,69.7,GAZ
+Chaudieres,1008,190.2,,GAZ
+Chaudieres,1009,93.4,110.5,GAZ
+Chauffage electrique,101,293.5,272.4,
+Chauffage electrique,103,1053.6,844.4,
+Chauffage electrique,105,11.1,5.1,
+Chauffage electrique,108,1888.9,,
+Chauffage electrique,109,17.6,,
+Chauffage electrique,110,150.0,109.8,
+Chauffage electrique,120,,211.9,
+Chauffage electrique,123,,227.8,
+Chauffage electrique,201,32.7,33.2,
+Chauffage electrique,202,1884.8,1946.8,
+Chauffage electrique,203,2486.1,2265.9,
+Chauffage electrique,204,6128.4,6566.1,
+Chauffage electrique,206,933.8,616.5,
+Chauffage electrique,207,5056.5,4830.2,
+Chauffage electrique,208,16.5,,
+Chauffage electrique,304,3411.8,,
+Chauffage electrique,306,3748.8,2039.1,
+Chauffage electrique,310,3456.4,4302.9,
+Chauffage electrique,320,,8.0,
+Chauffage electrique,326,,3.8,
+Chauffage electrique,401,936.2,,
+Chauffage electrique,402,2001.4,1336.5,
+Chauffage electrique,405,2898.2,89.9,
+Chauffage electrique,407,1465.5,863.3,
+Chauffage electrique,408,985.9,,
+Chauffage electrique,409,968.0,580.2,
+Chauffage electrique,410,4992.9,5763.2,
+Chauffage electrique,420,,979.4,
+Chauffage electrique,421,,38.1,
+Chauffage electrique,502,5315.7,5795.2,
+Chauffage electrique,503,505.7,336.9,
+Chauffage electrique,504,239.7,33.6,
+Chauffage electrique,505,2179.4,798.0,
+Chauffage electrique,506,288.1,336.7,
+Chauffage electrique,508,360.3,19.3,
+Chauffage electrique,601,,399.6,
+Chauffage electrique,604,60.2,59.1,
+Chauffage electrique,605,102.0,412.9,
+Chauffage electrique,606,60.8,9.8,
+Chauffage electrique,607,762.1,993.9,
+Chauffage electrique,608,59.5,61.8,
+Chauffage electrique,701,5827.5,,
+Chauffage electrique,702,13.7,8.9,
+Chauffage electrique,703,4856.6,5035.8,
+Chauffage electrique,705,2171.1,4593.3,
+Chauffage electrique,706,2541.4,4729.4,
+Chauffage electrique,707,2973.6,2887.7,
+Chauffage electrique,709,623.6,607.7,
+Chauffage electrique,720,,1243.3,
+Chauffage electrique,721,,3363.0,
+Chauffage electrique,722,,31.9,
+Chauffage electrique,801,2104.5,2188.1,
+Chauffage electrique,803,3229.1,4360.8,
+Chauffage electrique,804,6699.9,6645.7,
+Chauffage electrique,805,559.9,692.0,
+Chauffage electrique,806,2510.5,3358.8,
+Chauffage electrique,807,49.4,124.7,
+Chauffage electrique,808,12159.7,,
+Chauffage electrique,809,2406.8,,
+Chauffage electrique,810,1561.8,6111.4,
+Chauffage electrique,820,,17.3,
+Chauffage electrique,822,,420.0,
+Chauffage electrique,823,,145.9,
+Chauffage electrique,902,1582.5,1936.7,
+Chauffage electrique,904,54.3,,
+Chauffage electrique,905,60.9,131.1,
+Chauffage electrique,906,5343.9,,
+Chauffage electrique,908,66.3,57.7,
+Chauffage electrique,909,3.5,5.6,
+Chauffage electrique,910,1971.7,,
+Chauffage electrique,911,1112.6,851.1,
+Chauffage electrique,912,8558.6,7861.9,
+Chauffage electrique,921,,5202.5,
+Chauffage electrique,922,,31.5,
+Chauffage electrique,1001,1380.8,1935.8,
+Chauffage electrique,1002,3677.8,4744.9,
+Chauffage electrique,1003,232.2,170.4,
+Chauffage electrique,1004,48.5,,
+Chauffage electrique,1005,645.2,26.1,
+Chauffage electrique,1006,103.6,774.6,
+Chauffage electrique,1007,,123.4,
+Chauffage electrique,1009,1317.8,889.5,
+Chauffage electrique,1010,2035.5,3581.6,
+Chauffage electrique,1011,76.7,1013.5,
+Clim_fixe,902,784.0,785.6,
+Clim_fixe,803,597.0,692.5,
+Clim_fixe,505,164.2,189.7,
+Clim_fixe,1011,,176.5,
+Clim_fixe,1005,42.8,40.4,
+Clim_fixe,410,0.0,0.0,
+Clim_fixe,906,284.3,,
+Clim_fixe,910,200.4,,
+Clim_fixe,1001,94.0,,
+Clim_mob_rafraich_Deshum,802,386.8,,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,709,28.6,,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,310,6.0,79.9,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,721,,674.0,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,105,,80.9,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,602,,125.9,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,1006,,25.4,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,903,,85.1,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,907,,49.3,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Deshum,102,1404.8,1377.0,DeSHUMIDIFCATEUR
+Clim_mob_rafraich_Deshum,601,3.8,188.0,DeSHUMIDIFCATEUR
+Clim_mob_rafraich_Deshum,421,,62.8,DeSHUMIDIFCATEUR
+Clim_mob_rafraich_Deshum,403,29.3,0.0,RAFRAICHISSEUR SUR PRISE
+Clim_mob_rafraich_Deshum,604,8.4,7.1,RAFRAICHISSEUR SUR PRISE
+Clim_mob_rafraich_Deshum,1008,0.0,,RAFRAICHISSEUR SUR PRISE
+Congelateur,101,115.9,208.8,ARMOIRE
+Congelateur,202,113.3,122.1,ARMOIRE
+Congelateur,203,109.1,98.2,ARMOIRE
+Congelateur,205,267.4,271.3,ARMOIRE
+Congelateur,206,162.2,155.7,ARMOIRE
+Congelateur,208,187.2,,ARMOIRE
+Congelateur,208,145.5,,ARMOIRE
+Congelateur,209,109.0,80.0,ARMOIRE
+Congelateur,210,701.1,766.0,ARMOIRE
+Congelateur,303,262.7,258.5,ARMOIRE
+Congelateur,308,441.5,449.0,ARMOIRE
+Congelateur,311,308.2,222.7,ARMOIRE
+Congelateur,401,173.6,,ARMOIRE
+Congelateur,405,169.2,150.3,ARMOIRE
+Congelateur,406,201.3,409.0,ARMOIRE
+Congelateur,407,388.0,372.2,ARMOIRE
+Congelateur,503,225.0,182.4,ARMOIRE
+Congelateur,505,152.8,163.7,ARMOIRE
+Congelateur,601,589.8,201.1,ARMOIRE
+Congelateur,604,30.8,210.2,ARMOIRE
+Congelateur,607,231.3,228.2,ARMOIRE
+Congelateur,701,228.2,,ARMOIRE
+Congelateur,705,626.9,639.1,ARMOIRE
+Congelateur,708,427.0,,ARMOIRE
+Congelateur,803,303.3,319.1,ARMOIRE
+Congelateur,804,295.0,312.1,ARMOIRE
+Congelateur,808,415.0,,ARMOIRE
+Congelateur,809,171.5,,ARMOIRE
+Congelateur,809,105.2,,ARMOIRE
+Congelateur,902,259.6,268.3,ARMOIRE
+Congelateur,907,886.3,898.2,ARMOIRE
+Congelateur,1003,220.8,206.7,ARMOIRE
+Congelateur,1006,235.0,241.6,ARMOIRE
+Congelateur,1007,166.8,196.6,ARMOIRE
+Congelateur,1010,636.7,521.4,ARMOIRE
+Congelateur,1010,237.9,242.3,ARMOIRE
+Congelateur,320,,301.7,ARMOIRE
+Congelateur,620,,202.9,ARMOIRE
+Congelateur,720,,378.6,ARMOIRE
+Congelateur,912,,263.1,ARMOIRE
+Congelateur,105,337.0,307.1,COFFRE
+Congelateur,201,619.2,533.5,COFFRE
+Congelateur,209,142.6,149.9,COFFRE
+Congelateur,210,168.1,175.7,COFFRE
+Congelateur,403,200.8,230.6,COFFRE
+Congelateur,503,418.8,457.8,COFFRE
+Congelateur,510,492.0,985.2,COFFRE
+Congelateur,602,209.1,232.0,COFFRE
+Congelateur,603,107.4,164.6,COFFRE
+Congelateur,607,286.2,273.9,COFFRE
+Congelateur,709,302.3,337.6,COFFRE
+Congelateur,709,194.4,42.2,COFFRE
+Congelateur,802,222.6,,COFFRE
+Congelateur,809,289.5,,COFFRE
+Congelateur,810,644.3,616.2,COFFRE
+Congelateur,904,502.4,,COFFRE
+Congelateur,906,227.2,,COFFRE
+Congelateur,911,223.3,220.4,COFFRE
+Congelateur,1010,81.9,168.9,COFFRE
+Congelateur,1011,178.7,180.2,COFFRE
+Congelateur,722,,152.7,COFFRE
+Congelateur,805,,210.9,COFFRE
+Congelateur,620,,344.3,COFFRE
+Congelateur,805,,292.5,COFFRE
+Console de jeux,207,56.6,68.5,
+Console de jeux,404,8.4,77.6,
+Console de jeux,408,15.3,,
+Console de jeux,409,0.2,,
+Console de jeux,502,9.5,10.6,
+Console de jeux,503,293.0,113.3,
+Console de jeux,503,0.7,15.7,
+Console de jeux,602,600.1,340.7,
+Console de jeux,603,188.1,145.4,
+Console de jeux,605,171.3,120.0,
+Console de jeux,605,12.8,12.6,
+Console de jeux,708,74.2,,
+Console de jeux,807,5.7,5.8,
+Console de jeux,901,1.4,1.1,
+Console de jeux,122,,34.1,
+Console de jeux,326,,0.9,
+Console de jeux,607,,25.8,
+Console de jeux,704,,4.3,
+Console de jeux,806,,2.1,
+Console de jeux,821,,124.2,
+Console de jeux,823,,120.8,
+Console de jeux,921,,11.1,
+Console de jeux,603,,4.8,
+Console de jeux,210,,158.0,
+Cuisinieres,601,121.7,159.1,FOUR eLECTRIQUE + PLAQUES GAZ
+Cuisinieres,101,110.3,114.0,FOUR eLECTRIQUE + PLAQUES GAZ + 1 PLAQUE eLECTRIQUE
+Cuisinieres,311,236.1,247.0,FOUR eLECTRIQUE + PLAQUES GAZ + 1 PLAQUE eLECTRIQUE
+Cuisinieres,503,193.7,61.8,FOUR eLECTRIQUE + PLAQUES GAZ + 1 PLAQUE eLECTRIQUE
+Cuisinieres,302,286.3,256.0,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,303,255.8,253.8,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,304,217.2,,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,405,38.3,7.7,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,409,151.4,267.5,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,504,185.5,154.6,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,506,72.6,75.0,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,507,111.2,168.1,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,606,136.9,248.7,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,708,153.6,,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,907,132.6,76.2,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,1005,215.2,228.7,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,121,,37.9,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,520,,135.3,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,603,,212.8,FOUR+PLAQUES eLECTRIQUES
+Cuisinieres,722,,543.3,FOUR+PLAQUES eLECTRIQUES
+Divers cuisine,1004,1.2,1.6,BLENDER
+Divers cuisine,208,18.5,,CUISSEUR VAPEUR
+Divers cuisine,606,0.7,0.7,CUISSEUR VAPEUR
+Divers cuisine,1004,16.2,18.0,CUISSEUR VAPEUR
+Divers cuisine,1011,15.4,21.8,CUISSEUR VAPEUR
+Divers cuisine,306,0.0,,DESHYDRATEUR
+Divers cuisine,809,38.0,,DESHYDRATEUR
+Divers cuisine,308,27.2,20.3,FRITEUSE
+Divers cuisine,510,17.8,,FRITEUSE
+Divers cuisine,801,12.8,,FRITEUSE
+Divers cuisine,902,26.5,2.8,FRITEUSE
+Divers cuisine,903,18.9,24.9,FRITEUSE
+Divers cuisine,201,3.0,3.6,GRILLE PAIN
+Divers cuisine,205,3.9,6.7,GRILLE PAIN
+Divers cuisine,207,,2.5,GRILLE PAIN
+Divers cuisine,420,,0.9,GRILLE PAIN
+Divers cuisine,410,4.2,,MACHINE e PAIN
+Divers cuisine,204,0.0,,PLANCHA eLECTRIQUE
+Divers cuisine,307,0.0,,PLANCHA eLECTRIQUE
+Divers cuisine,922,,0.4,PLANCHA eLECTRIQUE
+Divers cuisine,209,1.6,1.7,RACLETTE
+Divers cuisine,601,17.8,21.1,RICE COOKER
+Divers cuisine,907,4.9,1.6,RICE COOKER
+Eau chaude sanitaire,108,433.3,,CETI
+Eau chaude sanitaire,206,848.8,1005.7,CETI
+Eau chaude sanitaire,401,1205.7,,CETI
+Eau chaude sanitaire,408,457.0,,CETI
+Eau chaude sanitaire,902,803.7,863.5,CETI
+Eau chaude sanitaire,1007,762.3,571.3,CETI
+Eau chaude sanitaire,1011,1990.6,599.8,JOULE / CETI
+Eau chaude sanitaire,101,889.3,915.4,JOULE
+Eau chaude sanitaire,103,1099.0,1271.5,JOULE
+Eau chaude sanitaire,201,790.1,702.9,JOULE
+Eau chaude sanitaire,202,1406.6,1462.6,JOULE
+Eau chaude sanitaire,202,829.8,246.0,JOULE
+Eau chaude sanitaire,203,889.8,895.2,JOULE
+Eau chaude sanitaire,204,1463.4,1452.0,JOULE
+Eau chaude sanitaire,205,1131.0,1145.8,JOULE
+Eau chaude sanitaire,207,882.5,951.2,JOULE
+Eau chaude sanitaire,209,1344.5,1421.2,JOULE
+Eau chaude sanitaire,304,2266.3,,JOULE
+Eau chaude sanitaire,306,2029.4,1899.8,JOULE
+Eau chaude sanitaire,310,931.5,846.5,JOULE
+Eau chaude sanitaire,402,1607.7,1570.3,JOULE
+Eau chaude sanitaire,405,532.4,529.9,JOULE
+Eau chaude sanitaire,406,2436.4,2245.1,JOULE
+Eau chaude sanitaire,407,2514.9,1660.8,JOULE
+Eau chaude sanitaire,409,1739.7,1606.5,JOULE
+Eau chaude sanitaire,410,777.7,758.7,JOULE
+Eau chaude sanitaire,502,1929.7,1852.7,JOULE
+Eau chaude sanitaire,503,3344.4,3137.4,JOULE
+Eau chaude sanitaire,506,1398.2,1457.1,JOULE
+Eau chaude sanitaire,510,2160.4,2153.0,JOULE
+Eau chaude sanitaire,601,2710.2,,JOULE
+Eau chaude sanitaire,607,4314.0,,JOULE
+Eau chaude sanitaire,703,1951.9,2119.4,JOULE
+Eau chaude sanitaire,705,2262.5,1686.8,JOULE
+Eau chaude sanitaire,706,1694.0,1896.7,JOULE
+Eau chaude sanitaire,707,1070.9,1096.6,JOULE
+Eau chaude sanitaire,709,2303.6,2674.1,JOULE
+Eau chaude sanitaire,801,2820.7,2944.6,JOULE
+Eau chaude sanitaire,805,2129.8,2257.2,JOULE
+Eau chaude sanitaire,806,1354.8,1520.6,JOULE
+Eau chaude sanitaire,807,2331.8,2418.7,JOULE
+Eau chaude sanitaire,808,2125.5,,JOULE
+Eau chaude sanitaire,809,3518.4,,JOULE
+Eau chaude sanitaire,810,2885.9,3766.3,JOULE
+Eau chaude sanitaire,901,655.0,659.8,JOULE
+Eau chaude sanitaire,905,700.4,645.2,JOULE
+Eau chaude sanitaire,906,2222.0,,JOULE
+Eau chaude sanitaire,907,696.7,501.5,JOULE
+Eau chaude sanitaire,909,1393.7,1277.3,JOULE
+Eau chaude sanitaire,910,1147.4,,JOULE
+Eau chaude sanitaire,911,153.6,142.9,JOULE
+Eau chaude sanitaire,911,1262.0,1471.5,JOULE
+Eau chaude sanitaire,912,748.8,800.7,JOULE
+Eau chaude sanitaire,1001,754.4,423.7,JOULE
+Eau chaude sanitaire,1002,750.9,748.9,JOULE
+Eau chaude sanitaire,1003,1326.4,1183.6,JOULE
+Eau chaude sanitaire,1006,2210.8,2397.7,JOULE
+Eau chaude sanitaire,1008,3525.1,,JOULE
+Eau chaude sanitaire,1010,1442.4,1423.3,JOULE
+Eau chaude sanitaire,120,,992.7,JOULE
+Eau chaude sanitaire,320,,211.0,JOULE
+Eau chaude sanitaire,720,,1382.0,JOULE
+Eau chaude sanitaire,721,,1397.6,JOULE
+Eau chaude sanitaire,921,,1906.2,JOULE
+Eclairage,101,23.6,17.2,
+Eclairage,102,93.9,105.8,
+Eclairage,103,335.2,222.4,
+Eclairage,104,225.3,,
+Eclairage,105,57.0,51.0,
+Eclairage,106,28.7,,
+Eclairage,107,177.1,103.9,
+Eclairage,108,59.1,,
+Eclairage,109,23.1,,
+Eclairage,110,25.9,15.9,
+Eclairage,120,,34.3,
+Eclairage,121,,203.8,
+Eclairage,122,,82.3,
+Eclairage,123,,384.5,
+Eclairage,201,175.8,384.0,
+Eclairage,202,70.2,101.0,
+Eclairage,203,23.0,29.2,
+Eclairage,204,24.8,25.6,
+Eclairage,205,64.1,73.3,
+Eclairage,206,235.2,338.1,
+Eclairage,207,29.6,36.2,
+Eclairage,208,114.5,,
+Eclairage,209,53.8,90.0,
+Eclairage,210,98.9,125.4,
+Eclairage,301,31.1,14.8,
+Eclairage,302,44.4,35.3,
+Eclairage,303,556.0,412.5,
+Eclairage,304,307.9,,
+Eclairage,305,260.6,268.8,
+Eclairage,306,172.0,177.0,
+Eclairage,307,64.5,,
+Eclairage,308,59.7,58.1,
+Eclairage,309,75.0,43.1,
+Eclairage,310,71.7,92.9,
+Eclairage,311,237.9,265.4,
+Eclairage,320,,3.0,
+Eclairage,326,,99.1,
+Eclairage,401,84.9,,
+Eclairage,402,77.7,77.9,
+Eclairage,403,107.4,10.4,
+Eclairage,404,67.4,65.8,
+Eclairage,405,145.4,27.0,
+Eclairage,406,333.9,366.7,
+Eclairage,407,81.2,30.7,
+Eclairage,408,32.1,,
+Eclairage,409,107.3,85.6,
+Eclairage,410,128.5,44.0,
+Eclairage,420,,9.1,
+Eclairage,421,,88.7,
+Eclairage,501,108.3,,
+Eclairage,502,193.4,196.6,
+Eclairage,503,126.7,107.3,
+Eclairage,504,95.8,84.0,
+Eclairage,505,69.7,57.6,
+Eclairage,506,5.4,6.4,
+Eclairage,507,161.5,87.9,
+Eclairage,508,72.4,88.1,
+Eclairage,509,351.1,,
+Eclairage,510,299.8,297.1,
+Eclairage,520,,29.6,
+Eclairage,601,280.4,370.6,
+Eclairage,602,54.9,66.2,
+Eclairage,603,83.8,60.9,
+Eclairage,604,105.3,213.8,
+Eclairage,605,194.4,146.4,
+Eclairage,606,141.9,91.2,
+Eclairage,607,171.6,199.9,
+Eclairage,608,75.7,77.6,
+Eclairage,620,,195.5,
+Eclairage,701,225.1,,
+Eclairage,702,123.8,94.7,
+Eclairage,703,333.9,214.8,
+Eclairage,704,282.0,193.3,
+Eclairage,705,195.7,143.5,
+Eclairage,706,441.0,459.9,
+Eclairage,707,99.6,98.3,
+Eclairage,708,62.9,,
+Eclairage,709,204.7,171.6,
+Eclairage,720,,187.5,
+Eclairage,721,,674.4,
+Eclairage,722,,157.3,
+Eclairage,801,49.5,48.1,
+Eclairage,802,302.1,,
+Eclairage,803,245.7,457.6,
+Eclairage,804,211.0,196.6,
+Eclairage,805,227.9,253.1,
+Eclairage,806,72.4,59.5,
+Eclairage,807,92.8,124.6,
+Eclairage,808,62.6,,
+Eclairage,809,384.9,,
+Eclairage,810,43.4,89.5,
+Eclairage,820,,19.0,
+Eclairage,821,,9.7,
+Eclairage,822,,24.5,
+Eclairage,823,,125.3,
+Eclairage,901,13.3,16.6,
+Eclairage,902,452.2,382.8,
+Eclairage,903,142.3,116.7,
+Eclairage,904,190.4,,
+Eclairage,905,25.2,28.2,
+Eclairage,906,64.3,,
+Eclairage,907,26.0,21.6,
+Eclairage,908,43.1,46.6,
+Eclairage,909,42.4,43.5,
+Eclairage,910,45.9,,
+Eclairage,911,620.9,1562.1,
+Eclairage,912,69.3,172.0,
+Eclairage,921,,67.3,
+Eclairage,922,,45.3,
+Eclairage,1001,54.2,8.4,
+Eclairage,1002,158.5,111.4,
+Eclairage,1003,38.2,37.6,
+Eclairage,1004,140.7,169.3,
+Eclairage,1005,267.4,401.6,
+Eclairage,1006,337.8,221.4,
+Eclairage,1007,110.6,123.4,
+Eclairage,1008,102.7,,
+Eclairage,1009,220.3,234.7,
+Eclairage,1010,208.1,199.5,
+Eclairage,1011,247.5,249.4,
+Enceintes,304,36.8,,
+Enceintes,702,15.8,2.2,
+Enceintes,401,10.9,,
+Enceintes,410,6.5,5.2,
+Enceintes,909,0.3,,
+Enceintes,409,0.2,0.1,
+Enceintes,122,,3.0,
+Enceintes,326,,21.3,
+Enceintes,206,,78.6,
+Four Micro-ondes,101,19.1,22.0,
+Four Micro-ondes,102,38.1,11.7,
+Four Micro-ondes,103,24.1,30.4,
+Four Micro-ondes,104,23.6,,
+Four Micro-ondes,105,40.2,41.3,
+Four Micro-ondes,106,34.6,,
+Four Micro-ondes,106,5.4,,
+Four Micro-ondes,107,43.9,31.4,
+Four Micro-ondes,108,65.6,,
+Four Micro-ondes,109,9.8,,
+Four Micro-ondes,110,29.0,18.9,
+Four Micro-ondes,201,17.9,19.3,
+Four Micro-ondes,202,57.1,64.8,
+Four Micro-ondes,203,25.4,21.2,
+Four Micro-ondes,204,14.8,22.4,
+Four Micro-ondes,205,28.6,31.8,
+Four Micro-ondes,206,87.0,74.5,
+Four Micro-ondes,207,11.7,11.5,
+Four Micro-ondes,208,0.0,,
+Four Micro-ondes,209,68.5,69.5,
+Four Micro-ondes,210,44.3,35.7,
+Four Micro-ondes,302,6.1,7.3,
+Four Micro-ondes,303,80.8,63.2,
+Four Micro-ondes,304,37.8,,
+Four Micro-ondes,305,46.3,48.6,
+Four Micro-ondes,306,55.9,66.5,
+Four Micro-ondes,307,33.9,,
+Four Micro-ondes,308,16.4,11.6,
+Four Micro-ondes,309,44.6,50.2,
+Four Micro-ondes,310,15.3,17.3,
+Four Micro-ondes,401,28.9,,
+Four Micro-ondes,402,47.1,34.9,
+Four Micro-ondes,403,23.3,42.3,
+Four Micro-ondes,404,12.5,18.6,
+Four Micro-ondes,406,37.9,22.7,
+Four Micro-ondes,409,24.5,35.9,
+Four Micro-ondes,410,42.4,49.7,
+Four Micro-ondes,502,42.6,46.8,
+Four Micro-ondes,503,70.6,68.8,
+Four Micro-ondes,504,31.4,46.3,
+Four Micro-ondes,505,47.3,51.7,
+Four Micro-ondes,506,27.6,28.6,
+Four Micro-ondes,508,18.3,16.3,
+Four Micro-ondes,509,169.3,,
+Four Micro-ondes,510,47.9,52.2,
+Four Micro-ondes,601,120.6,147.0,
+Four Micro-ondes,602,35.8,38.6,
+Four Micro-ondes,603,10.5,7.3,
+Four Micro-ondes,604,18.9,29.3,
+Four Micro-ondes,605,27.2,36.9,
+Four Micro-ondes,606,23.2,36.0,
+Four Micro-ondes,607,30.4,36.4,
+Four Micro-ondes,608,8.1,13.6,
+Four Micro-ondes,701,66.6,,
+Four Micro-ondes,702,29.2,35.9,
+Four Micro-ondes,703,29.5,48.6,
+Four Micro-ondes,704,95.0,95.5,
+Four Micro-ondes,705,65.5,50.4,
+Four Micro-ondes,707,9.1,11.7,
+Four Micro-ondes,708,19.5,,
+Four Micro-ondes,709,28.5,40.6,
+Four Micro-ondes,802,66.1,,
+Four Micro-ondes,803,59.8,58.3,
+Four Micro-ondes,804,87.5,84.1,
+Four Micro-ondes,804,43.2,24.0,
+Four Micro-ondes,805,68.8,57.4,
+Four Micro-ondes,807,10.6,11.3,
+Four Micro-ondes,808,28.0,,
+Four Micro-ondes,809,44.2,,
+Four Micro-ondes,810,46.1,53.9,
+Four Micro-ondes,902,54.0,30.9,
+Four Micro-ondes,903,31.6,32.5,
+Four Micro-ondes,904,9.0,,
+Four Micro-ondes,905,33.0,28.9,
+Four Micro-ondes,906,45.7,,
+Four Micro-ondes,907,21.4,13.1,
+Four Micro-ondes,908,13.9,15.0,
+Four Micro-ondes,909,38.2,83.2,
+Four Micro-ondes,910,23.8,,
+Four Micro-ondes,912,60.7,63.4,
+Four Micro-ondes,1001,34.0,17.9,
+Four Micro-ondes,1002,39.0,41.6,
+Four Micro-ondes,1004,22.9,16.8,
+Four Micro-ondes,1005,17.3,15.4,
+Four Micro-ondes,1006,45.9,55.4,
+Four Micro-ondes,1008,58.4,,
+Four Micro-ondes,1009,39.6,45.1,
+Four Micro-ondes,1010,81.0,78.3,
+Four Micro-ondes,1011,61.3,65.3,
+Four Micro-ondes,121,,11.5,
+Four Micro-ondes,122,,49.4,
+Four Micro-ondes,420,,23.3,
+Four Micro-ondes,421,,36.1,
+Four Micro-ondes,520,,4.5,
+Four Micro-ondes,620,,7.3,
+Four Micro-ondes,720,,27.6,
+Four Micro-ondes,721,,8.4,
+Four Micro-ondes,722,,43.1,
+Four Micro-ondes,820,,5.3,
+Four Micro-ondes,821,,6.4,
+Four Micro-ondes,822,,18.9,
+Four Micro-ondes,823,,16.0,
+Four Micro-ondes,908,,15.0,
+Four Micro-ondes,921,,25.0,
+Four Micro-ondes,922,,38.5,
+Four Micro-ondes,1007,,16.9,
+Fours,102,75.5,42.1,
+Fours,103,139.3,210.9,
+Fours,106,24.4,,
+Fours,108,64.9,,
+Fours,109,81.9,,
+Fours,110,128.5,155.4,
+Fours,201,39.5,61.8,
+Fours,202,100.2,122.2,
+Fours,205,27.2,26.5,
+Fours,206,141.6,148.1,
+Fours,207,47.3,68.5,
+Fours,209,226.1,264.4,
+Fours,210,8.1,17.9,
+Fours,305,96.5,31.9,
+Fours,306,140.4,47.2,
+Fours,309,104.6,107.2,
+Fours,401,120.5,,
+Fours,402,64.2,205.9,
+Fours,404,96.2,152.0,
+Fours,406,173.7,233.5,
+Fours,410,41.7,27.6,
+Fours,501,117.9,,
+Fours,502,225.9,228.1,
+Fours,505,125.9,157.6,
+Fours,508,175.3,241.4,
+Fours,509,486.2,,
+Fours,510,227.6,320.0,
+Fours,602,138.6,99.1,
+Fours,604,23.6,45.0,
+Fours,605,116.6,175.3,
+Fours,607,153.7,298.6,
+Fours,608,21.3,23.0,
+Fours,701,151.9,,
+Fours,703,198.2,190.6,
+Fours,704,250.5,275.2,
+Fours,705,159.8,146.6,
+Fours,706,66.7,43.5,
+Fours,707,108.9,111.1,
+Fours,709,138.2,97.1,
+Fours,801,251.6,437.9,
+Fours,802,227.0,,
+Fours,803,161.0,202.5,
+Fours,804,62.2,105.7,
+Fours,805,121.0,130.3,
+Fours,806,339.8,371.6,
+Fours,807,149.4,43.8,
+Fours,808,113.2,,
+Fours,809,168.9,,
+Fours,902,162.0,342.2,
+Fours,903,120.6,160.8,
+Fours,905,57.8,55.7,
+Fours,906,136.7,,
+Fours,908,143.3,183.6,
+Fours,910,63.6,,
+Fours,911,302.3,431.1,
+Fours,912,267.5,267.3,
+Fours,1001,83.2,62.3,
+Fours,1004,148.0,454.1,
+Fours,1006,213.0,124.9,
+Fours,1007,271.6,201.6,
+Fours,1008,306.7,,
+Fours,1009,222.1,245.6,
+Fours,1010,262.5,369.7,
+Fours,1011,184.3,177.7,
+Fours,120,,97.7,
+Fours,123,,121.6,
+Fours,326,,158.2,
+Fours,420,,39.0,
+Fours,421,,288.0,
+Fours,620,,223.3,
+Fours,720,,180.0,
+Fours,721,,152.2,
+Fours,820,,49.9,
+Fours,821,,93.7,
+Fours,822,,34.0,
+Fours,823,,70.3,
+Fours,921,,221.8,
+Fours,922,,58.7,
+General,101,2083.6,2323.2,
+General,102,3282.7,2542.3,
+General,103,4188.0,4113.2,
+General,104,1369.0,,
+General,105,2801.9,3053.5,
+General,106,1531.0,,
+General,107,951.9,685.1,
+General,108,3376.4,,
+General,109,1535.9,,
+General,110,1166.5,1215.4,
+General,120,,2150.7,
+General,121,,1413.1,
+General,122,,1489.1,
+General,123,,1966.5,
+General,201,3436.8,3274.2,
+General,202,6532.9,5449.1,
+General,203,3920.5,3698.4,
+General,204,10056.3,10516.4,
+General,205,3040.1,3183.1,
+General,206,8603.0,12816.2,
+General,207,7061.1,7086.4,
+General,208,1094.2,,
+General,209,4563.7,4790.2,
+General,210,3965.4,4767.4,
+General,301,1345.0,1089.1,
+General,302,1411.5,1313.8,
+General,303,2608.8,2301.5,
+General,304,8446.5,,
+General,305,1665.3,1541.2,
+General,306,8126.7,6290.5,
+General,307,1196.2,,
+General,308,1539.3,1548.5,
+General,309,1395.4,1475.7,
+General,310,5097.4,6730.2,
+General,311,3351.4,3459.5,
+General,320,,1301.5,
+General,326,,1317.6,
+General,401,6033.7,,
+General,402,4721.5,4499.1,
+General,403,1582.5,1227.7,
+General,404,1396.3,1853.1,
+General,405,4492.3,1153.4,
+General,406,7369.1,7617.5,
+General,407,5560.8,3662.3,
+General,408,2271.8,,
+General,409,3621.7,3560.5,
+General,410,7809.4,8517.8,
+General,420,,1876.7,
+General,421,,1977.1,
+General,501,1276.9,,
+General,502,11529.6,12662.1,
+General,503,7011.7,6309.3,
+General,504,1251.1,1139.5,
+General,505,4806.5,3658.8,
+General,506,2554.6,2699.4,
+General,507,994.8,1065.8,
+General,508,2885.0,9556.4,
+General,509,3738.4,,
+General,510,4309.0,4958.4,
+General,520,,620.9,
+General,601,13759.9,4409.6,
+General,602,2550.6,2756.1,
+General,603,2209.2,1967.7,
+General,604,2006.0,2238.4,
+General,605,3397.2,3883.5,
+General,606,1161.1,1382.9,
+General,607,9811.4,7718.0,
+General,608,1377.1,1540.2,
+General,620,,3764.9,
+General,701,8745.5,,
+General,702,2237.3,3024.9,
+General,703,9013.3,10102.4,
+General,704,3113.1,3158.3,
+General,705,7827.2,9381.1,
+General,706,6589.5,8847.2,
+General,707,5416.2,5656.8,
+General,708,1453.6,,
+General,709,5196.7,5446.5,
+General,720,,6526.7,
+General,721,,8475.2,
+General,722,,2919.1,
+General,801,6815.5,7235.2,
+General,802,4756.1,,
+General,803,10922.3,11464.6,
+General,804,12229.9,12652.4,
+General,805,4889.1,5491.3,
+General,806,5514.0,6517.7,
+General,807,4249.8,4428.1,
+General,808,18596.2,,
+General,809,9246.2,,
+General,810,6828.7,12309.2,
+General,820,,978.8,
+General,821,,1010.4,
+General,822,,1849.6,
+General,823,,1677.7,
+General,901,1031.1,961.2,
+General,902,7480.5,8644.6,
+General,903,3271.2,3331.5,
+General,904,2179.7,,
+General,905,2412.3,2408.4,
+General,906,11342.8,,
+General,907,2981.1,2516.9,
+General,908,1123.3,1184.4,
+General,909,2327.1,2163.8,
+General,910,4510.4,,
+General,911,13974.7,13296.2,
+General,912,11081.6,11147.5,
+General,921,,9480.8,
+General,922,,1266.4,
+General,1001,3741.3,3578.1,
+General,1002,5607.3,6672.1,
+General,1003,2567.9,2415.4,
+General,1004,4316.8,5719.9,
+General,1005,2154.7,2261.8,
+General,1006,5322.1,5612.9,
+General,1007,4094.3,4558.5,
+General,1008,6385.6,,
+General,1009,4829.0,4579.4,
+General,1010,9306.8,11374.2,
+General,1011,6096.5,5365.5,
+Hifi,101,1.3,0.0,HIFI
+Hifi,105,,0.0,HIFI
+Hifi,109,17.3,,HIFI
+Hifi,121,,1.7,HIFI
+Hifi,122,,16.3,HIFI
+Hifi,123,,1.1,HIFI
+Hifi,203,3.2,3.5,HIFI
+Hifi,205,48.8,47.1,HIFI
+Hifi,206,19.5,78.6,HIFI
+Hifi,210,13.5,13.6,HIFI
+Hifi,301,14.8,16.4,HIFI
+Hifi,302,23.0,22.0,HIFI
+Hifi,305,2.9,2.5,HIFI
+Hifi,306,67.7,67.2,HIFI
+Hifi,310,0.9,0.9,HIFI
+Hifi,311,29.8,57.4,HIFI
+Hifi,320,,8.3,HIFI
+Hifi,403,,3.7,HIFI
+Hifi,407,0.8,1.4,HIFI
+Hifi,506,4.5,4.9,HIFI
+Hifi,507,58.4,62.7,HIFI
+Hifi,601,54.3,111.6,HIFI
+Hifi,602,67.6,72.0,HIFI
+Hifi,605,15.2,15.2,HIFI
+Hifi,606,0.5,,HIFI
+Hifi,607,31.8,32.1,HIFI
+Hifi,702,147.1,151.4,HIFI
+Hifi,703,11.6,1.0,HIFI
+Hifi,704,51.2,55.9,HIFI
+Hifi,705,11.0,6.2,HIFI
+Hifi,706,1.0,1.0,HIFI
+Hifi,707,0.6,2.5,HIFI
+Hifi,709,3.6,4.0,HIFI
+Hifi,805,1.2,1.8,HIFI
+Hifi,809,41.0,,HIFI
+Hifi,903,142.2,122.0,HIFI
+Hifi,909,,2.1,HIFI
+Hifi,911,72.5,63.2,HIFI
+Hifi,912,4.3,0.3,HIFI
+Hifi,922,,2.2,HIFI
+Hifi,1001,1.9,2.2,HIFI
+Hifi,1002,4.1,4.6,HIFI
+Hifi,1005,5.1,4.5,HIFI
+Hifi,1010,13.3,13.7,HIFI
+Hifi,201,5.3,5.1,HIFI 2
+Hottes,102,6.7,7.3,
+Hottes,103,2.8,2.4,
+Hottes,205,17.5,,
+Hottes,206,30.3,27.8,
+Hottes,207,5.6,3.0,
+Hottes,208,15.5,,
+Hottes,304,19.1,,
+Hottes,305,11.8,11.0,
+Hottes,308,8.7,13.2,
+Hottes,310,0.6,2.1,
+Hottes,408,6.8,,
+Hottes,604,4.9,6.3,
+Hottes,704,27.2,24.9,
+Hottes,707,17.8,20.8,
+Hottes,807,12.7,13.9,
+Hottes,902,24.8,24.8,
+Hottes,906,2.6,,
+Hottes,1004,55.3,70.0,
+Hottes,1006,27.5,27.5,
+Hottes,1007,43.0,34.1,
+Hottes,123,,33.9,
+Hottes,320,,11.3,
+Hottes,722,,9.3,
+Hottes,822,,1.1,
+Hottes,823,,6.9,
+Hottes,1001,,3.9,
+Imprimantes,104,0.4,,JET D'ENCRE
+Imprimantes,106,7.7,,JET D'ENCRE
+Imprimantes,108,1.5,,JET D'ENCRE
+Imprimantes,201,1.4,1.3,JET D'ENCRE
+Imprimantes,202,8.1,1.2,JET D'ENCRE
+Imprimantes,204,11.1,23.2,JET D'ENCRE
+Imprimantes,205,1.7,1.5,JET D'ENCRE
+Imprimantes,209,11.0,12.3,JET D'ENCRE
+Imprimantes,210,3.8,2.0,JET D'ENCRE
+Imprimantes,301,0.2,0.8,JET D'ENCRE
+Imprimantes,304,2.4,,JET D'ENCRE
+Imprimantes,305,0.2,0.3,JET D'ENCRE
+Imprimantes,307,63.1,,JET D'ENCRE
+Imprimantes,308,2.9,7.6,JET D'ENCRE
+Imprimantes,311,10.4,10.8,JET D'ENCRE
+Imprimantes,404,14.7,20.1,JET D'ENCRE
+Imprimantes,407,51.1,4.1,JET D'ENCRE
+Imprimantes,505,0.8,,JET D'ENCRE
+Imprimantes,508,0.3,0.2,JET D'ENCRE
+Imprimantes,509,21.6,,JET D'ENCRE
+Imprimantes,510,0.2,0.3,JET D'ENCRE
+Imprimantes,601,9.5,9.7,JET D'ENCRE
+Imprimantes,602,1.2,1.2,JET D'ENCRE
+Imprimantes,603,0.5,0.2,JET D'ENCRE
+Imprimantes,604,11.2,11.4,JET D'ENCRE
+Imprimantes,605,21.7,,JET D'ENCRE
+Imprimantes,606,0.6,0.6,JET D'ENCRE
+Imprimantes,701,0.4,,JET D'ENCRE
+Imprimantes,709,1.4,1.5,JET D'ENCRE
+Imprimantes,804,1.4,17.1,JET D'ENCRE
+Imprimantes,806,10.3,6.6,JET D'ENCRE
+Imprimantes,807,54.9,,JET D'ENCRE
+Imprimantes,808,3.5,,JET D'ENCRE
+Imprimantes,809,5.1,,JET D'ENCRE
+Imprimantes,810,1.8,1.7,JET D'ENCRE
+Imprimantes,904,139.8,,JET D'ENCRE
+Imprimantes,905,0.2,0.0,JET D'ENCRE
+Imprimantes,908,0.3,0.2,JET D'ENCRE
+Imprimantes,1002,2.1,1.4,JET D'ENCRE
+Imprimantes,1004,3.0,2.6,JET D'ENCRE
+Imprimantes,1005,0.4,0.6,JET D'ENCRE
+Imprimantes,1006,3.7,20.8,JET D'ENCRE
+Imprimantes,1007,1.9,3.4,JET D'ENCRE
+Imprimantes,1008,0.9,,JET D'ENCRE
+Imprimantes,1011,4.1,13.5,JET D'ENCRE
+Imprimantes,503,,0.1,JET D'ENCRE
+Imprimantes,520,,0.3,JET D'ENCRE
+Imprimantes,922,,1.0,JET D'ENCRE
+Imprimantes,105,0.3,0.2,LASER
+Imprimantes,206,61.6,2.6,LASER
+Imprimantes,302,0.4,0.5,LASER
+Imprimantes,410,1.6,1.2,LASER
+Imprimantes,803,17.8,8.6,LASER
+Imprimantes,902,49.3,50.7,LASER
+Imprimantes,907,0.2,0.1,LASER
+Imprimantes,1001,1.8,0.4,LASER
+Imprimantes,326,,1.9,LASER
+Lave linge,102,59.8,16.6,HUBLOT
+Lave linge,104,99.3,,HUBLOT
+Lave linge,105,199.0,187.5,HUBLOT
+Lave linge,107,11.4,8.8,HUBLOT
+Lave linge,108,23.8,,HUBLOT
+Lave linge,110,67.7,98.5,HUBLOT
+Lave linge,201,59.7,55.8,HUBLOT
+Lave linge,202,124.0,131.5,HUBLOT
+Lave linge,203,60.2,55.5,HUBLOT
+Lave linge,204,11.9,22.5,HUBLOT
+Lave linge,205,59.4,66.7,HUBLOT
+Lave linge,206,247.0,256.7,HUBLOT
+Lave linge,207,39.5,45.4,HUBLOT
+Lave linge,209,114.2,125.5,HUBLOT
+Lave linge,210,35.0,59.8,HUBLOT
+Lave linge,301,92.0,88.5,HUBLOT
+Lave linge,303,25.6,20.0,HUBLOT
+Lave linge,304,106.9,,HUBLOT
+Lave linge,306,68.6,72.7,HUBLOT
+Lave linge,307,32.4,,HUBLOT
+Lave linge,308,88.6,67.2,HUBLOT
+Lave linge,310,12.1,14.9,HUBLOT
+Lave linge,311,138.0,133.4,HUBLOT
+Lave linge,402,38.7,59.3,HUBLOT
+Lave linge,403,87.9,54.4,HUBLOT
+Lave linge,404,41.9,75.1,HUBLOT
+Lave linge,406,131.2,89.2,HUBLOT
+Lave linge,409,93.8,129.4,HUBLOT
+Lave linge,502,326.2,335.1,HUBLOT
+Lave linge,503,136.8,141.9,HUBLOT
+Lave linge,505,82.4,81.7,HUBLOT
+Lave linge,507,19.6,29.7,HUBLOT
+Lave linge,508,330.2,318.0,HUBLOT
+Lave linge,510,126.1,160.6,HUBLOT
+Lave linge,601,222.9,285.2,HUBLOT
+Lave linge,602,77.5,114.5,HUBLOT
+Lave linge,605,107.9,91.6,HUBLOT
+Lave linge,607,159.5,90.9,HUBLOT
+Lave linge,608,17.7,17.5,HUBLOT
+Lave linge,701,104.0,,HUBLOT
+Lave linge,702,56.8,62.2,HUBLOT
+Lave linge,703,140.6,137.2,HUBLOT
+Lave linge,704,97.1,105.0,HUBLOT
+Lave linge,707,60.1,60.2,HUBLOT
+Lave linge,802,202.7,,HUBLOT
+Lave linge,803,97.8,179.7,HUBLOT
+Lave linge,804,123.1,146.2,HUBLOT
+Lave linge,805,101.4,145.9,HUBLOT
+Lave linge,806,100.5,108.1,HUBLOT
+Lave linge,807,174.3,211.3,HUBLOT
+Lave linge,809,239.3,,HUBLOT
+Lave linge,810,54.7,66.5,HUBLOT
+Lave linge,902,440.7,442.0,HUBLOT
+Lave linge,903,50.2,55.9,HUBLOT
+Lave linge,904,49.1,,HUBLOT
+Lave linge,905,47.6,64.5,HUBLOT
+Lave linge,906,289.2,,HUBLOT
+Lave linge,907,17.1,12.7,HUBLOT
+Lave linge,908,37.4,42.6,HUBLOT
+Lave linge,910,66.7,,HUBLOT
+Lave linge,911,99.0,100.8,HUBLOT
+Lave linge,1001,58.8,43.4,HUBLOT
+Lave linge,1002,61.2,55.4,HUBLOT
+Lave linge,1003,40.8,37.1,HUBLOT
+Lave linge,1004,216.6,205.0,HUBLOT
+Lave linge,1007,178.8,72.4,HUBLOT
+Lave linge,1008,134.3,,HUBLOT
+Lave linge,1009,96.5,115.6,HUBLOT
+Lave linge,1010,104.2,120.1,HUBLOT
+Lave linge,1011,244.6,247.8,HUBLOT
+Lave linge,120,,57.6,HUBLOT
+Lave linge,121,,109.4,HUBLOT
+Lave linge,123,,178.9,HUBLOT
+Lave linge,320,,5.8,HUBLOT
+Lave linge,326,,38.5,HUBLOT
+Lave linge,420,,34.3,HUBLOT
+Lave linge,421,,80.8,HUBLOT
+Lave linge,520,,27.2,HUBLOT
+Lave linge,720,,88.2,HUBLOT
+Lave linge,721,,75.8,HUBLOT
+Lave linge,722,,167.0,HUBLOT
+Lave linge,820,,63.4,HUBLOT
+Lave linge,821,,93.1,HUBLOT
+Lave linge,822,,43.4,HUBLOT
+Lave linge,823,,78.3,HUBLOT
+Lave linge,922,,19.4,HUBLOT
+Lave linge,305,93.7,230.2,SeCHANTE
+Lave linge,405,13.3,3.8,SeCHANTE
+Lave linge,504,36.9,39.1,SeCHANTE
+Lave linge,801,134.3,282.4,SeCHANTE
+Lave linge,101,39.8,44.6,TOP
+Lave linge,103,54.2,64.0,TOP
+Lave linge,106,62.9,,TOP
+Lave linge,109,116.6,,TOP
+Lave linge,208,16.1,,TOP
+Lave linge,302,94.1,88.1,TOP
+Lave linge,309,27.4,16.8,TOP
+Lave linge,401,183.9,,TOP
+Lave linge,407,120.6,39.4,TOP
+Lave linge,410,29.1,26.9,TOP
+Lave linge,501,145.5,,TOP
+Lave linge,506,33.6,33.4,TOP
+Lave linge,509,88.3,,TOP
+Lave linge,603,176.1,176.9,TOP
+Lave linge,604,86.3,67.7,TOP
+Lave linge,606,89.5,131.9,TOP
+Lave linge,705,138.1,126.8,TOP
+Lave linge,706,61.9,94.0,TOP
+Lave linge,708,80.1,,TOP
+Lave linge,709,59.9,54.3,TOP
+Lave linge,808,138.0,,TOP
+Lave linge,901,53.1,62.4,TOP
+Lave linge,909,55.7,44.9,TOP
+Lave linge,912,96.0,93.7,TOP
+Lave linge,1005,38.1,40.3,TOP
+Lave linge,1006,172.0,188.8,TOP
+Lave linge,122,,74.2,TOP
+Lave linge,620,,69.2,TOP
+Lave linge,921,,110.7,TOP
+Lave vaisselle,102,54.2,30.0,
+Lave vaisselle,103,76.1,66.6,
+Lave vaisselle,104,92.6,,
+Lave vaisselle,105,405.3,448.1,
+Lave vaisselle,108,27.6,,
+Lave vaisselle,109,142.1,,
+Lave vaisselle,201,150.6,132.7,
+Lave vaisselle,202,195.3,330.1,
+Lave vaisselle,206,395.3,250.9,
+Lave vaisselle,207,57.2,47.5,
+Lave vaisselle,209,311.9,306.9,
+Lave vaisselle,210,3.4,30.6,
+Lave vaisselle,301,73.7,74.8,
+Lave vaisselle,302,109.8,98.1,
+Lave vaisselle,304,251.1,,
+Lave vaisselle,305,205.7,275.8,
+Lave vaisselle,310,59.9,104.1,
+Lave vaisselle,311,166.9,216.4,
+Lave vaisselle,401,188.1,,
+Lave vaisselle,402,110.2,129.9,
+Lave vaisselle,403,123.0,104.7,
+Lave vaisselle,407,113.8,39.4,
+Lave vaisselle,409,122.3,148.9,
+Lave vaisselle,410,117.3,154.0,
+Lave vaisselle,501,46.7,,
+Lave vaisselle,502,75.6,90.0,
+Lave vaisselle,503,85.9,74.1,
+Lave vaisselle,505,321.6,312.3,
+Lave vaisselle,507,33.9,37.1,
+Lave vaisselle,508,237.1,242.6,
+Lave vaisselle,510,185.2,114.4,
+Lave vaisselle,601,133.0,169.7,
+Lave vaisselle,604,170.5,160.2,
+Lave vaisselle,605,358.5,412.6,
+Lave vaisselle,606,92.3,108.8,
+Lave vaisselle,607,248.1,218.8,
+Lave vaisselle,608,23.0,49.7,
+Lave vaisselle,701,149.0,,
+Lave vaisselle,702,210.3,235.4,
+Lave vaisselle,703,186.4,252.6,
+Lave vaisselle,704,306.1,344.8,
+Lave vaisselle,705,137.0,129.2,
+Lave vaisselle,706,91.5,122.7,
+Lave vaisselle,707,72.8,70.5,
+Lave vaisselle,708,60.3,,
+Lave vaisselle,709,61.5,82.6,
+Lave vaisselle,801,233.2,335.7,
+Lave vaisselle,802,263.6,,
+Lave vaisselle,804,117.4,198.9,
+Lave vaisselle,805,154.5,194.3,
+Lave vaisselle,806,103.9,106.9,
+Lave vaisselle,807,128.3,188.3,
+Lave vaisselle,808,217.5,,
+Lave vaisselle,809,153.7,,
+Lave vaisselle,810,235.6,300.3,
+Lave vaisselle,902,523.9,489.4,
+Lave vaisselle,903,313.6,413.8,
+Lave vaisselle,905,90.2,98.7,
+Lave vaisselle,908,12.3,1.0,
+Lave vaisselle,909,50.1,43.7,
+Lave vaisselle,910,157.3,,
+Lave vaisselle,911,275.2,282.3,
+Lave vaisselle,1001,87.8,99.9,
+Lave vaisselle,1002,84.1,97.0,
+Lave vaisselle,1004,233.5,257.2,
+Lave vaisselle,1005,170.0,184.7,
+Lave vaisselle,1006,187.9,157.1,
+Lave vaisselle,1007,51.4,89.3,
+Lave vaisselle,1008,386.6,,
+Lave vaisselle,1009,207.1,226.0,
+Lave vaisselle,1010,97.3,86.0,
+Lave vaisselle,1011,301.8,298.5,
+Lave vaisselle,120,,77.2,
+Lave vaisselle,121,,93.8,
+Lave vaisselle,122,,118.9,
+Lave vaisselle,123,,93.0,
+Lave vaisselle,303,,0.0,
+Lave vaisselle,326,,115.7,
+Lave vaisselle,421,,152.8,
+Lave vaisselle,620,,81.4,
+Lave vaisselle,720,,235.8,
+Lave vaisselle,721,,167.4,
+Lave vaisselle,722,,74.0,
+Lave vaisselle,820,,75.4,
+Lave vaisselle,821,,126.8,
+Lave vaisselle,822,,102.7,
+Lave vaisselle,823,,99.3,
+Lave vaisselle,921,,193.6,
+Lave vaisselle,204,,73.3,
+Lave vaisselle,803,,179.7,
+Loisirs,406,759.8,794.9,Aquarium avec chauffage
+Loisirs,209,688.3,953.7,Aquarium avec chauffage
+Loisirs,105,52.7,37.6,Aquarium juste pompe
+Loisirs,401,29.1,,Aquarium juste pompe
+Loisirs,406,14.2,,Aquarium juste pompe
+Loisirs,803,36.8,38.3,Balneo
+Loisirs,806,35.3,1.3,Lit Motorise
+Loisirs,503,24.8,27.3,Adoucisseur
+Loisirs,804,13.4,14.8,Adoucisseur
+Loisirs,106,0.0,,Tapis De Course
+Loisirs,421,,69.7,Aquarium juste pompe
+Loisirs,722,,36.0,Aquarium juste pompe
+Loisirs,508,,873.4,Aquarium avec chauffage
+Loisirs,201,,537.0,Aquarium avec chauffage
+Mini_Fours,105,127.4,152.3,
+Mini_Fours,204,11.0,,
+Mini_Fours,210,124.3,190.2,
+Mini_Fours,301,22.2,19.1,
+Mini_Fours,307,107.8,,
+Mini_Fours,311,45.3,46.2,
+Mini_Fours,403,50.9,0.0,
+Mini_Fours,408,61.4,,
+Mini_Fours,603,50.2,109.3,
+Mini_Fours,702,4.9,,
+Mini_Fours,810,197.7,189.4,
+Mini_Fours,904,34.7,,
+Mini_Fours,907,20.4,30.6,
+Mini_Fours,909,98.6,84.2,
+Mini_Fours,1002,16.9,24.0,
+Mini_Fours,1003,5.1,7.4,
+Mini_Fours,1006,17.0,,
+Mini_Fours,320,,7.8,
+Mini_Fours,206,,328.9,
+Mobilite_electrique,1008,6.7,,TROTINETTE eLECTRIQUE
+Mobilite_electrique,703,11.9,8.9,VeLO eLECTRIQUE
+Mobilite_electrique,806,6.8,7.8,VeLO eLECTRIQUE
+Mobilite_electrique,911,4.1,1.1,VeLO eLECTRIQUE
+Mobilite_electrique,1005,22.1,15.2,VeLO eLECTRIQUE
+Mobilite_electrique,1006,9.2,31.0,VeLO eLECTRIQUE
+Mobilite_electrique,720,,1.3,VeLO eLECTRIQUE
+Multicuiseurs,103,2.1,0.1,
+Multicuiseurs,105,5.7,10.1,
+Multicuiseurs,206,16.2,66.6,
+Multicuiseurs,207,2.7,3.2,
+Multicuiseurs,304,4.8,,
+Multicuiseurs,401,12.5,,
+Multicuiseurs,402,1.9,0.6,
+Multicuiseurs,404,4.0,8.5,
+Multicuiseurs,404,0.0,,
+Multicuiseurs,409,3.2,6.6,
+Multicuiseurs,502,38.4,31.6,
+Multicuiseurs,505,41.7,25.4,
+Multicuiseurs,506,2.9,3.8,
+Multicuiseurs,508,20.3,21.0,
+Multicuiseurs,510,6.0,9.5,
+Multicuiseurs,601,17.8,21.1,
+Multicuiseurs,605,1.0,0.9,
+Multicuiseurs,608,1.9,3.2,
+Multicuiseurs,702,91.9,46.5,
+Multicuiseurs,801,63.3,50.8,
+Multicuiseurs,802,51.0,,
+Multicuiseurs,803,3.8,29.4,
+Multicuiseurs,804,6.2,8.7,
+Multicuiseurs,902,3.8,21.8,
+Multicuiseurs,907,4.9,1.6,
+Multicuiseurs,911,22.4,21.7,
+Multicuiseurs,1007,13.0,,
+Multicuiseurs,1008,8.1,,
+Multicuiseurs,1011,21.0,22.5,
+Multicuiseurs,101,,3.8,
+Multicuiseurs,121,,20.4,
+Multicuiseurs,122,,3.5,
+Multicuiseurs,326,,22.1,
+Multicuiseurs,410,,37.3,
+Multicuiseurs,721,,15.1,
+Multicuiseurs,822,,5.8,
+Multicuiseurs,510,,62.2,
+Nettoyage_sols,1011,3.3,0.7,ASPIRATEUR e MAIN
+Nettoyage_sols,402,,2.8,ASPIRATEUR e MAIN
+Nettoyage_sols,108,13.0,,ASPIRATEUR CENTRALISe
+Nettoyage_sols,410,33.9,35.4,ASPIRATEUR CENTRALISe
+Nettoyage_sols,1010,7.9,5.6,ASPIRATEUR CENTRALISe
+Nettoyage_sols,721,,19.6,ASPIRATEUR CENTRALISe
+Nettoyage_sols,305,3.3,3.1,ASPIRATEUR FILAIRE
+Nettoyage_sols,606,15.7,15.0,ASPIRATEUR FILAIRE
+Nettoyage_sols,708,4.1,,ASPIRATEUR FILAIRE
+Nettoyage_sols,805,51.4,39.3,ASPIRATEUR FILAIRE
+Nettoyage_sols,105,7.1,3.4,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,209,6.3,12.1,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,401,3.5,,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,404,3.3,5.3,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,409,2.9,3.7,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,605,0.9,0.8,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,708,3.0,,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,801,8.2,8.9,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,802,10.3,,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,912,5.0,,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,1001,1.0,,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,1007,3.4,6.2,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,121,,1.0,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,123,,0.6,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,806,,43.4,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,822,,2.2,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,823,,4.2,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,121,,3.0,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,508,3.9,2.2,ASPIRATEUR ROBOT
+Nettoyage_sols,604,19.5,19.9,ASPIRATEUR ROBOT
+Nettoyage_sols,803,17.7,13.3,ASPIRATEUR ROBOT
+Nettoyage_sols,902,3.1,,ASPIRATEUR ROBOT
+Nettoyage_sols,1006,8.6,3.5,ASPIRATEUR ROBOT
+Nettoyage_sols,402,1.6,2.8,NETTOYEUR VAPEUR
+Nettoyage_sols,708,1.9,,NETTOYEUR VAPEUR
+Nettoyage_sols,121,,1.2,NETTOYEUR VAPEUR
+Ordi_fixes,101,6.6,2.3,
+Ordi_fixes,108,45.0,,
+Ordi_fixes,110,0.0,78.8,
+Ordi_fixes,120,,5.2,
+Ordi_fixes,122,,3.0,
+Ordi_fixes,123,,2.0,
+Ordi_fixes,201,52.5,38.4,
+Ordi_fixes,201,50.6,39.6,
+Ordi_fixes,206,,50.8,
+Ordi_fixes,208,237.1,,
+Ordi_fixes,304,67.8,,
+Ordi_fixes,309,50.7,94.6,
+Ordi_fixes,326,,39.0,
+Ordi_fixes,326,,22.0,
+Ordi_fixes,406,169.8,290.1,
+Ordi_fixes,406,59.1,26.8,
+Ordi_fixes,421,,18.2,
+Ordi_fixes,502,213.7,249.0,
+Ordi_fixes,503,75.8,27.3,
+Ordi_fixes,505,10.2,9.1,
+Ordi_fixes,520,,9.6,
+Ordi_fixes,601,377.3,706.5,
+Ordi_fixes,603,288.9,75.4,
+Ordi_fixes,604,149.5,198.2,
+Ordi_fixes,605,321.2,519.4,
+Ordi_fixes,705,41.2,25.7,
+Ordi_fixes,705,,90.2,
+Ordi_fixes,709,6.2,46.0,
+Ordi_fixes,720,,11.5,
+Ordi_fixes,721,,19.3,
+Ordi_fixes,803,272.4,457.6,
+Ordi_fixes,803,51.3,32.8,
+Ordi_fixes,803,1.7,2.5,
+Ordi_fixes,805,58.2,23.5,
+Ordi_fixes,806,,2.0,
+Ordi_fixes,808,416.9,,
+Ordi_fixes,809,58.1,,
+Ordi_fixes,820,,41.6,
+Ordi_fixes,823,,49.7,
+Ordi_fixes,903,523.7,554.1,
+Ordi_fixes,906,77.4,,
+Ordi_fixes,909,14.3,,
+Ordi_fixes,910,136.9,,
+Ordi_fixes,921,,4.4,
+Ordi_fixes,922,,0.6,
+Ordi_fixes,1003,29.3,20.8,
+Ordi_fixes,1004,18.9,4.7,
+Ordi_fixes,1007,285.6,734.1,
+Ordi_fixes,1008,37.4,,
+Ordi_fixes,1009,89.9,76.7,
+Ordi_fixes,1009,15.0,,
+Ordi_fixes,1010,126.1,144.1,
+Ordi_portables,102,10.3,,
+Ordi_portables,103,23.9,25.5,
+Ordi_portables,104,21.1,,
+Ordi_portables,105,28.6,36.4,
+Ordi_portables,106,49.0,,
+Ordi_portables,107,20.4,31.6,
+Ordi_portables,109,23.1,,
+Ordi_portables,110,10.9,23.3,
+Ordi_portables,202,15.6,,
+Ordi_portables,203,18.3,26.8,
+Ordi_portables,204,182.7,122.7,
+Ordi_portables,204,182.2,,
+Ordi_portables,204,13.4,,
+Ordi_portables,205,25.5,27.1,
+Ordi_portables,206,19.6,42.6,
+Ordi_portables,206,14.2,,
+Ordi_portables,207,1.8,2.5,
+Ordi_portables,209,2.8,12.9,
+Ordi_portables,210,73.8,70.5,
+Ordi_portables,210,11.3,,
+Ordi_portables,301,6.5,,
+Ordi_portables,302,0.0,,
+Ordi_portables,303,140.3,153.3,
+Ordi_portables,303,6.5,2.6,
+Ordi_portables,303,1.8,,
+Ordi_portables,304,0.0,,
+Ordi_portables,305,40.6,49.5,
+Ordi_portables,306,28.0,37.5,
+Ordi_portables,307,38.8,,
+Ordi_portables,308,35.6,31.1,
+Ordi_portables,308,4.0,1.0,
+Ordi_portables,309,117.9,123.9,
+Ordi_portables,310,6.3,,
+Ordi_portables,311,48.9,11.2,
+Ordi_portables,311,1.2,4.8,
+Ordi_portables,401,36.8,,
+Ordi_portables,401,16.0,,
+Ordi_portables,402,4.9,83.6,
+Ordi_portables,403,0.0,2.9,
+Ordi_portables,404,7.1,8.9,
+Ordi_portables,406,16.9,8.6,
+Ordi_portables,406,13.7,65.6,
+Ordi_portables,407,10.2,0.0,
+Ordi_portables,407,7.9,7.5,
+Ordi_portables,407,1.0,,
+Ordi_portables,408,21.0,,
+Ordi_portables,409,2.4,2.5,
+Ordi_portables,410,12.6,7.6,
+Ordi_portables,501,57.1,,
+Ordi_portables,502,5.6,,
+Ordi_portables,503,7.7,232.9,
+Ordi_portables,504,24.2,27.6,
+Ordi_portables,505,0.8,,
+Ordi_portables,506,13.1,12.3,
+Ordi_portables,508,5.0,9.7,
+Ordi_portables,509,24.3,,
+Ordi_portables,510,2.7,1.4,
+Ordi_portables,602,19.6,95.0,
+Ordi_portables,605,9.6,1.6,
+Ordi_portables,606,7.7,9.9,
+Ordi_portables,607,10.9,8.7,
+Ordi_portables,607,7.6,17.4,
+Ordi_portables,607,6.2,7.8,
+Ordi_portables,608,3.3,2.0,
+Ordi_portables,701,0.4,,
+Ordi_portables,702,32.1,20.6,
+Ordi_portables,703,6.8,10.9,
+Ordi_portables,704,4.0,10.7,
+Ordi_portables,708,19.2,,
+Ordi_portables,709,6.8,5.1,
+Ordi_portables,803,7.0,6.2,
+Ordi_portables,804,42.2,46.1,
+Ordi_portables,804,5.5,,
+Ordi_portables,805,13.1,6.7,
+Ordi_portables,807,8.0,6.9,
+Ordi_portables,808,0.0,,
+Ordi_portables,810,7.9,6.8,
+Ordi_portables,901,9.6,12.2,
+Ordi_portables,902,7.7,13.2,
+Ordi_portables,904,74.5,,
+Ordi_portables,905,19.3,21.1,
+Ordi_portables,907,10.3,6.3,
+Ordi_portables,908,5.3,0.6,
+Ordi_portables,909,5.1,3.4,
+Ordi_portables,911,4.8,6.6,
+Ordi_portables,1001,22.9,30.8,
+Ordi_portables,1002,13.7,9.2,
+Ordi_portables,1005,0.2,0.5,
+Ordi_portables,1006,24.7,16.0,
+Ordi_portables,1009,4.4,2.6,
+Ordi_portables,1011,33.6,,
+Ordi_portables,120,,5.2,
+Ordi_portables,122,,3.0,
+Ordi_portables,326,,39.0,
+Ordi_portables,421,,18.2,
+Ordi_portables,520,,9.6,
+Ordi_portables,720,,11.5,
+Ordi_portables,806,,2.0,
+Ordi_portables,820,,41.6,
+Ordi_portables,823,,49.7,
+Ordi_portables,921,,4.4,
+Ordi_portables,922,,0.6,
+Ordi_portables,120,,7.1,
+Ordi_portables,421,,8.8,
+Ordi_portables,503,,7.1,
+Ordi_portables,822,,6.7,
+Ordi_portables,823,,14.6,
+Ordi_portables,420,,3.0,
+Periph_info_bureautique,605,12.0,12.5,ASSISTANT VOCAL
+Periph_info_bureautique,821,,19.0,ASSISTANT VOCAL
+Periph_info_bureautique,108,5.3,,DISQUE DUR
+Periph_info_bureautique,705,52.6,,HUB USB
+Periph_info_bureautique,509,13.1,,SCANNER CODES BARRES
+Periph_info_bureautique,510,13.1,,SCANNER CODES BARRES
+Periph_info_bureautique,704,24.5,,SCANNER CODES BARRES
+Periph_info_bureautique,705,14.9,,SCANNER CODES BARRES
+Periph_Internet_reseaux,304,8.0,,SERVEUR
+Periph_Internet_reseaux,607,122.7,153.8,SERVEUR
+Periph_Internet_reseaux,1005,76.3,76.2,SERVEUR
+Periph_Internet_reseaux,1007,,183.0,SERVEUR
+Periph_Internet_reseaux,803,44.4,42.8,SWITCH ETHERNET
+Periph_multimedia,204,130.2,95.0,DeCODEUR
+Periph_multimedia,505,125.6,102.0,DeCODEUR
+Periph_multimedia,803,97.6,98.0,DeCODEUR
+Periph_multimedia,808,114.3,,DeCODEUR
+Periph_multimedia,810,5.5,10.4,DeCODEUR
+Periph_multimedia,911,42.9,42.9,DeCODEUR
+Periph_multimedia,409,0.6,0.6,LECTEUR DVD OU BLU RAY
+Periph_multimedia,506,1.4,0.7,LECTEUR DVD OU BLU RAY
+Periph_multimedia,601,51.5,27.1,LECTEUR DVD OU BLU RAY
+Periph_multimedia,604,25.9,24.1,LECTEUR DVD OU BLU RAY
+Periph_multimedia,908,0.5,0.5,LECTEUR DVD OU BLU RAY
+Periph_multimedia,1001,5.1,,LECTEUR DVD OU BLU RAY
+Periph_multimedia,1004,1.3,0.0,LECTEUR DVD OU BLU RAY
+Periph_multimedia,720,,142.0,LECTEUR DVD OU BLU RAY
+Piscines,206,2679.4,,SPA
+Piscines,502,344.0,,SPA
+Piscines,505,215.0,,PETITE
+Piscines,508,5033.1,-,SPA
+Piscines,508,346.5,,HORS SOL
+Piscines,721,525.3,,HORS SOL
+Piscines,803,364.6,,PETITE
+Piscines,804,1746.8,1635.2,HORS SOL
+Piscines,805,101.5,,PETITE
+Piscines,902,206.5,268.3,HORS SOL
+Piscines,911,2734.2,4086.3,ENTERReE
+Piscines,1004,2517.0,1211.0,HORS SOL
+Piscines,1010,1488.9,1247.1,ENTERReE
+Piscines,1011,266.0,0.6,HORS SOL
+Plaques cuisson,106,14.3,,FONTE
+Plaques cuisson,603,182.1,,FONTE
+Plaques cuisson,1002,99.7,99.4,FONTE
+Plaques cuisson,421,,177.4,FONTE
+Plaques cuisson,102,95.9,55.1,INDUCTION
+Plaques cuisson,103,74.8,98.4,INDUCTION
+Plaques cuisson,108,72.2,,INDUCTION
+Plaques cuisson,110,129.5,139.2,INDUCTION
+Plaques cuisson,206,158.6,157.4,INDUCTION
+Plaques cuisson,207,51.7,98.9,INDUCTION
+Plaques cuisson,306,212.0,306.2,INDUCTION
+Plaques cuisson,401,206.0,,INDUCTION
+Plaques cuisson,410,93.6,101.5,INDUCTION
+Plaques cuisson,502,121.8,160.3,INDUCTION
+Plaques cuisson,508,126.5,152.7,INDUCTION
+Plaques cuisson,608,15.7,19.1,INDUCTION
+Plaques cuisson,703,270.4,369.9,INDUCTION
+Plaques cuisson,705,55.2,46.2,INDUCTION
+Plaques cuisson,706,212.0,292.8,INDUCTION
+Plaques cuisson,801,187.6,153.2,INDUCTION
+Plaques cuisson,803,170.3,230.7,INDUCTION
+Plaques cuisson,804,107.9,116.3,INDUCTION
+Plaques cuisson,806,84.4,61.1,INDUCTION
+Plaques cuisson,807,64.8,84.2,INDUCTION
+Plaques cuisson,902,246.2,216.8,INDUCTION
+Plaques cuisson,906,130.7,,INDUCTION
+Plaques cuisson,908,65.6,86.1,INDUCTION
+Plaques cuisson,910,40.7,,INDUCTION
+Plaques cuisson,1009,24.3,,INDUCTION
+Plaques cuisson,1010,398.5,431.0,INDUCTION
+Plaques cuisson,1011,307.9,344.8,INDUCTION
+Plaques cuisson,123,,82.6,INDUCTION
+Plaques cuisson,326,,100.6,INDUCTION
+Plaques cuisson,420,,18.6,INDUCTION
+Plaques cuisson,721,,78.0,INDUCTION
+Plaques cuisson,820,,48.2,INDUCTION
+Plaques cuisson,821,,83.8,INDUCTION
+Plaques cuisson,822,,41.4,INDUCTION
+Plaques cuisson,823,,125.2,INDUCTION
+Plaques cuisson,921,,169.6,INDUCTION
+Plaques cuisson,1001,,96.9,INDUCTION
+Plaques cuisson,305,0.5,0.8,MIXTE
+Plaques cuisson,406,15.1,48.7,MIXTE
+Plaques cuisson,505,0.0,0.0,MIXTE
+Plaques cuisson,802,4.1,,MIXTE
+Plaques cuisson,106,68.9,,VITROCeRAMIQUE
+Plaques cuisson,301,45.3,55.1,VITROCeRAMIQUE
+Plaques cuisson,307,168.3,,VITROCeRAMIQUE
+Plaques cuisson,309,4.7,2.4,VITROCeRAMIQUE
+Plaques cuisson,402,57.6,82.1,VITROCeRAMIQUE
+Plaques cuisson,408,61.8,,VITROCeRAMIQUE
+Plaques cuisson,509,86.0,,VITROCeRAMIQUE
+Plaques cuisson,605,105.5,140.5,VITROCeRAMIQUE
+Plaques cuisson,607,531.6,601.2,VITROCeRAMIQUE
+Plaques cuisson,704,162.7,145.2,VITROCeRAMIQUE
+Plaques cuisson,707,98.9,129.6,VITROCeRAMIQUE
+Plaques cuisson,905,166.5,151.3,VITROCeRAMIQUE
+Plaques cuisson,911,489.9,534.3,VITROCeRAMIQUE
+Plaques cuisson,1003,152.6,169.0,VITROCeRAMIQUE
+Plaques cuisson,1007,180.5,182.8,VITROCeRAMIQUE
+Plaques cuisson,120,,111.8,VITROCeRAMIQUE
+Plaques cuisson,320,,198.4,VITROCeRAMIQUE
+Plaques cuisson,922,,46.7,VITROCeRAMIQUE
+Poeles,103,151.1,134.7,POELE A GRANULES
+Poeles,202,87.4,101.7,POELE A GRANULES
+Poeles,401,75.7,,POELE A GRANULES
+Poeles,508,38.7,26.1,POELE A GRANULES
+Poeles,709,70.5,83.7,POELE A GRANULES
+Poeles,810,147.8,,POELE A GRANULES
+Poeles,209,,34.8,POELE A GRANULES
+Poeles,720,,202.1,POELE A GRANULES
+Poeles,407,38.1,37.1,POELE PeTROLE
+Pompes,906,372.6,,MICROSTATION
+Pompes,707,3.4,5.7,POMPE CAVE
+Pompes,706,7.7,10.0,POMPE FOSSE SCEPTIQUE
+Pompes,1010,135.5,72.8,POMPE JARDIN
+Pompes,620,,3.4,POMPE JARDIN
+Pompes,720,,24.9,POMPE JARDIN
+Pompes,206,,39.9,POMPE JARDIN
+Refricongelateur,401,451.2,,
+Refricongelateur,406,927.7,1001.3,
+Refricongelateur,803,920.8,972.0,
+Refricongelateur,1011,389.7,393.4,
+Refricongelateur,721,,750.2,
+Refricongelateur,101,119.1,123.7,
+Refricongelateur,102,252.0,229.3,
+Refricongelateur,103,268.2,256.7,
+Refricongelateur,104,172.9,,
+Refricongelateur,105,248.4,244.7,
+Refricongelateur,106,496.8,,
+Refricongelateur,107,268.7,275.7,
+Refricongelateur,109,335.4,,
+Refricongelateur,110,230.9,232.4,
+Refricongelateur,202,320.6,146.6,
+Refricongelateur,204,186.7,228.3,
+Refricongelateur,205,525.6,554.7,
+Refricongelateur,207,218.5,200.5,
+Refricongelateur,210,291.1,197.5,
+Refricongelateur,302,211.3,210.4,
+Refricongelateur,303,385.4,402.2,
+Refricongelateur,304,443.2,,
+Refricongelateur,305,434.9,239.3,
+Refricongelateur,306,496.5,474.6,
+Refricongelateur,307,260.5,,
+Refricongelateur,308,349.5,328.3,
+Refricongelateur,309,534.4,586.0,
+Refricongelateur,310,251.3,254.1,
+Refricongelateur,311,398.6,449.1,
+Refricongelateur,402,364.2,348.3,
+Refricongelateur,403,185.8,173.2,
+Refricongelateur,404,203.7,229.6,
+Refricongelateur,408,274.1,,
+Refricongelateur,409,251.9,277.5,
+Refricongelateur,410,335.0,336.7,
+Refricongelateur,501,272.4,,
+Refricongelateur,502,771.3,784.6,
+Refricongelateur,502,285.1,262.3,
+Refricongelateur,503,308.2,354.0,
+Refricongelateur,504,344.5,355.7,
+Refricongelateur,505,358.3,437.7,
+Refricongelateur,506,247.3,249.7,
+Refricongelateur,507,314.1,328.6,
+Refricongelateur,508,336.5,375.2,
+Refricongelateur,509,681.1,,
+Refricongelateur,510,283.4,325.0,
+Refricongelateur,601,441.9,338.6,
+Refricongelateur,601,313.9,409.0,
+Refricongelateur,602,178.8,217.2,
+Refricongelateur,604,310.6,353.6,
+Refricongelateur,605,345.1,325.3,
+Refricongelateur,606,300.8,334.3,
+Refricongelateur,607,273.5,263.5,
+Refricongelateur,608,240.0,230.5,
+Refricongelateur,702,303.1,252.0,
+Refricongelateur,702,44.0,566.1,
+Refricongelateur,703,335.1,390.2,
+Refricongelateur,704,369.0,368.9,
+Refricongelateur,706,431.5,354.8,
+Refricongelateur,707,302.6,315.5,
+Refricongelateur,707,244.3,286.1,
+Refricongelateur,709,193.2,199.3,
+Refricongelateur,801,590.1,541.9,
+Refricongelateur,802,225.6,,
+Refricongelateur,806,376.3,389.0,
+Refricongelateur,807,429.8,405.2,
+Refricongelateur,808,334.0,,
+Refricongelateur,809,352.6,,
+Refricongelateur,810,448.1,416.7,
+Refricongelateur,902,308.6,349.1,
+Refricongelateur,903,383.7,363.9,
+Refricongelateur,904,239.0,,
+Refricongelateur,905,392.1,441.4,
+Refricongelateur,906,430.0,,
+Refricongelateur,907,489.3,252.0,
+Refricongelateur,908,302.0,306.3,
+Refricongelateur,909,342.0,319.6,
+Refricongelateur,910,240.5,,
+Refricongelateur,911,508.1,513.0,
+Refricongelateur,912,400.2,382.5,
+Refricongelateur,1001,296.3,280.2,
+Refricongelateur,1002,281.8,278.9,
+Refricongelateur,1004,304.7,295.0,
+Refricongelateur,1005,548.8,563.0,
+Refricongelateur,1007,294.7,290.3,
+Refricongelateur,1008,303.2,,
+Refricongelateur,1009,236.6,231.5,
+Refricongelateur,1009,178.5,82.6,
+Refricongelateur,120,,340.1,
+Refricongelateur,121,,206.1,
+Refricongelateur,123,,313.3,
+Refricongelateur,420,,206.1,
+Refricongelateur,421,,418.2,
+Refricongelateur,520,,306.7,
+Refricongelateur,620,,399.6,
+Refricongelateur,720,,558.6,
+Refricongelateur,722,,365.7,
+Refricongelateur,820,,266.9,
+Refricongelateur,821,,188.6,
+Refricongelateur,822,,473.2,
+Refricongelateur,823,,351.0,
+Refricongelateur,921,,328.7,
+Refricongelateur,922,,478.5,
+Refricongelateur,122,,258.7,
+Refricongelateur,326,,170.6,
+Refrigerateur,107,111.4,,
+Refrigerateur,108,209.1,,
+Refrigerateur,201,201.4,179.2,
+Refrigerateur,203,136.6,118.8,
+Refrigerateur,206,108.7,100.0,
+Refrigerateur,208,95.7,,
+Refrigerateur,209,157.6,150.2,
+Refrigerateur,209,272.9,248.0,
+Refrigerateur,301,142.9,127.8,
+Refrigerateur,405,111.1,114.7,
+Refrigerateur,406,452.8,399.1,
+Refrigerateur,407,195.6,189.0,
+Refrigerateur,602,161.5,158.4,
+Refrigerateur,603,155.8,148.4,
+Refrigerateur,607,195.4,195.5,
+Refrigerateur,701,148.9,,
+Refrigerateur,705,124.5,121.7,
+Refrigerateur,705,250.4,212.8,
+Refrigerateur,708,117.5,,
+Refrigerateur,709,148.6,110.3,
+Refrigerateur,803,39.8,80.8,
+Refrigerateur,804,208.3,206.5,
+Refrigerateur,805,170.2,164.0,
+Refrigerateur,901,111.3,148.2,
+Refrigerateur,902,153.6,152.4,
+Refrigerateur,1003,113.5,104.0,
+Refrigerateur,1006,210.3,222.9,
+Refrigerateur,1010,137.8,143.7,
+Refrigerateur,320,,136.5,
+Repassage,210,0.0,0.0,CENTRALE VAPEUR DE REPASSAGE
+Repassage,302,33.7,27.9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,303,38.3,34.4,CENTRALE VAPEUR DE REPASSAGE
+Repassage,304,29.0,,CENTRALE VAPEUR DE REPASSAGE
+Repassage,309,34.3,12.0,CENTRALE VAPEUR DE REPASSAGE
+Repassage,506,7.1,14.2,CENTRALE VAPEUR DE REPASSAGE
+Repassage,604,38.1,25.9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,704,11.2,18.3,CENTRALE VAPEUR DE REPASSAGE
+Repassage,806,13.4,9.5,CENTRALE VAPEUR DE REPASSAGE
+Repassage,809,22.3,,CENTRALE VAPEUR DE REPASSAGE
+Repassage,903,23.7,22.7,CENTRALE VAPEUR DE REPASSAGE
+Repassage,911,42.2,29.9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,121,,14.5,CENTRALE VAPEUR DE REPASSAGE
+Repassage,720,,16.8,CENTRALE VAPEUR DE REPASSAGE
+Repassage,721,,10.8,CENTRALE VAPEUR DE REPASSAGE
+Repassage,722,,16.5,CENTRALE VAPEUR DE REPASSAGE
+Repassage,902,,37.7,CENTRALE VAPEUR DE REPASSAGE
+Repassage,420,,2.7,CENTRALE VAPEUR DE REPASSAGE
+Repassage,403,42.0,13.7,FER e REPASSER
+Repassage,705,45.0,40.0,FER e REPASSER
+Sante,201,104.8,,APNESOMMEIL
+Sante,208,52.4,,APNESOMMEIL
+Sante,309,40.4,81.1,APNESOMMEIL
+Sante,307,34.2,,APNESOMMEIL
+Sante,407,25.0,25.0,APNESOMMEIL
+Sante,121,,25.0,APNESOMMEIL
+Sante,403,46.5,,CHARGEUR FAUTEUIL ROULANT
+Seche linge,607,782.6,549.8,CONDENSATION
+Seche linge,701,562.9,,CONDENSATION
+Seche linge,809,468.6,,CONDENSATION
+Seche linge,304,463.4,,CONDENSATION
+Seche linge,802,451.3,,CONDENSATION
+Seche linge,311,448.6,454.0,CONDENSATION
+Seche linge,1004,405.5,411.8,CONDENSATION
+Seche linge,105,268.3,235.9,CONDENSATION
+Seche linge,508,259.8,288.3,CONDENSATION
+Seche linge,903,234.7,235.2,CONDENSATION
+Seche linge,210,226.1,357.6,CONDENSATION
+Seche linge,502,218.4,359.5,CONDENSATION
+Seche linge,401,212.6,,CONDENSATION
+Seche linge,106,188.5,,CONDENSATION
+Seche linge,807,113.9,136.0,CONDENSATION
+Seche linge,303,108.5,36.2,CONDENSATION
+Seche linge,705,99.5,35.6,CONDENSATION
+Seche linge,604,83.2,67.0,CONDENSATION
+Seche linge,310,7.7,13.4,CONDENSATION
+Seche linge,720,,54.5,CONDENSATION
+Seche linge,820,,31.0,CONDENSATION
+Seche linge,206,1123.2,1267.3,EVACUATION
+Seche linge,1008,562.2,,EVACUATION
+Seche linge,1011,485.4,365.8,EVACUATION
+Seche linge,1009,376.0,455.6,EVACUATION
+Seche linge,808,171.2,,EVACUATION
+Seche linge,1010,146.2,111.0,EVACUATION
+Seche linge,702,141.2,179.7,EVACUATION
+Seche linge,108,25.5,,EVACUATION
+Seche linge,902,287.6,353.8,POMPE e CHALEUR
+Seche linge,803,228.8,230.4,POMPE e CHALEUR
+Seche linge,406,119.7,128.9,POMPE e CHALEUR
+Seche linge,104,53.9,,POMPE e CHALEUR
+Securite,410,224.2,39.8,CAMeRA WIFI
+Securite,709,96.4,101.8,PORTE OU PORTAIL AUTOMATIQUE
+Securite,803,115.7,115.7,PORTE OU PORTAIL AUTOMATIQUE
+Securite,1006,53.4,51.5,PORTE OU PORTAIL AUTOMATIQUE
+Securite,1007,28.7,27.1,PORTE OU PORTAIL AUTOMATIQUE
+Securite,1007,40.2,42.1,VISIOPHONE
+Securite,410,39.9,40.9,VOLETS ROULANTS
+Securite,604,18.4,16.9,VOLETS ROULANTS
+Securite,608,23.4,23.0,VOLETS ROULANTS
+Securite,708,5.8,,VOLETS ROULANTS
+Securite,910,37.5,,VOLETS ROULANTS
+Securite,1007,2.4,3.1,VOLETS ROULANTS
+Securite,721,,1.3,VOLETS ROULANTS
+Securite,820,,11.1,VOLETS ROULANTS
+Securite,823,,12.4,VOLETS ROULANTS
+Tablettes_smartph,408,2.9,,SMART PHONE
+Tablettes_smartph,107,,8.6,SMART PHONE
+Tablettes_smartph,404,5.6,10.4,TABLETTE
+Tablettes_smartph,405,3.9,1.4,TABLETTE
+Tablettes_smartph,409,4.0,,TABLETTE
+Televiseurs,101,55.2,115.7,PRINCIPAL
+Televiseurs,102,311.0,36.6,PRINCIPAL
+Televiseurs,103,274.3,314.7,PRINCIPAL
+Televiseurs,104,297.3,,PRINCIPAL
+Televiseurs,105,158.8,152.6,PRINCIPAL
+Televiseurs,106,232.4,,PRINCIPAL
+Televiseurs,107,0.0,7.5,PRINCIPAL
+Televiseurs,109,175.2,,PRINCIPAL
+Televiseurs,110,162.5,150.2,PRINCIPAL
+Televiseurs,121,,42.3,PRINCIPAL
+Televiseurs,122,,78.1,PRINCIPAL
+Televiseurs,123,,153.9,PRINCIPAL
+Televiseurs,201,147.6,117.6,PRINCIPAL
+Televiseurs,202,182.4,75.9,PRINCIPAL
+Televiseurs,203,68.3,86.5,PRINCIPAL
+Televiseurs,204,36.7,75.3,PRINCIPAL
+Televiseurs,205,214.8,228.8,PRINCIPAL
+Televiseurs,206,307.8,287.4,PRINCIPAL
+Televiseurs,207,180.0,205.5,PRINCIPAL
+Televiseurs,209,277.0,248.9,PRINCIPAL
+Televiseurs,210,144.1,141.4,PRINCIPAL
+Televiseurs,301,393.0,238.9,PRINCIPAL
+Televiseurs,302,169.5,190.5,PRINCIPAL
+Televiseurs,303,,147.4,PRINCIPAL
+Televiseurs,306,724.3,741.5,PRINCIPAL
+Televiseurs,307,72.1,,PRINCIPAL
+Televiseurs,308,75.5,101.6,PRINCIPAL
+Televiseurs,310,64.5,87.4,PRINCIPAL
+Televiseurs,311,350.8,345.2,PRINCIPAL
+Televiseurs,320,,189.9,PRINCIPAL
+Televiseurs,326,,260.0,PRINCIPAL
+Televiseurs,401,1143.0,,PRINCIPAL
+Televiseurs,402,108.6,236.1,PRINCIPAL
+Televiseurs,403,142.8,77.4,PRINCIPAL
+Televiseurs,404,365.0,488.9,PRINCIPAL
+Televiseurs,405,437.6,88.0,PRINCIPAL
+Televiseurs,406,95.5,167.5,PRINCIPAL
+Televiseurs,408,68.4,,PRINCIPAL
+Televiseurs,410,118.2,102.6,PRINCIPAL
+Televiseurs,420,,69.4,PRINCIPAL
+Televiseurs,421,,112.2,PRINCIPAL
+Televiseurs,501,98.5,,PRINCIPAL
+Televiseurs,502,391.7,531.0,PRINCIPAL
+Televiseurs,503,83.9,121.1,PRINCIPAL
+Televiseurs,505,130.8,168.6,PRINCIPAL
+Televiseurs,506,156.7,158.4,PRINCIPAL
+Televiseurs,507,82.1,82.8,PRINCIPAL
+Televiseurs,508,242.2,177.5,PRINCIPAL
+Televiseurs,509,198.2,,PRINCIPAL
+Televiseurs,510,105.9,95.2,PRINCIPAL
+Televiseurs,601,54.5,174.5,PRINCIPAL
+Televiseurs,602,207.8,158.7,PRINCIPAL
+Televiseurs,603,66.8,200.8,PRINCIPAL
+Televiseurs,604,27.6,46.4,PRINCIPAL
+Televiseurs,605,136.5,184.2,PRINCIPAL
+Televiseurs,606,92.7,130.1,PRINCIPAL
+Televiseurs,607,145.7,88.3,PRINCIPAL
+Televiseurs,608,62.0,78.0,PRINCIPAL
+Televiseurs,620,,321.3,PRINCIPAL
+Televiseurs,701,177.9,,PRINCIPAL
+Televiseurs,702,151.8,180.8,PRINCIPAL
+Televiseurs,703,33.2,42.9,PRINCIPAL
+Televiseurs,704,334.7,346.0,PRINCIPAL
+Televiseurs,705,63.7,55.9,PRINCIPAL
+Televiseurs,706,634.2,307.5,PRINCIPAL
+Televiseurs,707,112.0,104.0,PRINCIPAL
+Televiseurs,708,107.9,,PRINCIPAL
+Televiseurs,709,86.0,102.3,PRINCIPAL
+Televiseurs,720,,104.7,PRINCIPAL
+Televiseurs,721,,150.6,PRINCIPAL
+Televiseurs,722,,221.9,PRINCIPAL
+Televiseurs,801,139.2,102.7,PRINCIPAL
+Televiseurs,802,237.1,,PRINCIPAL
+Televiseurs,803,295.9,346.8,PRINCIPAL
+Televiseurs,804,412.0,409.8,PRINCIPAL
+Televiseurs,805,118.5,112.4,PRINCIPAL
+Televiseurs,806,76.1,124.1,PRINCIPAL
+Televiseurs,807,184.2,235.5,PRINCIPAL
+Televiseurs,808,328.5,,PRINCIPAL
+Televiseurs,809,24.1,,PRINCIPAL
+Televiseurs,810,131.0,135.5,PRINCIPAL
+Televiseurs,820,,100.3,PRINCIPAL
+Televiseurs,821,,84.3,PRINCIPAL
+Televiseurs,822,,91.9,PRINCIPAL
+Televiseurs,823,,135.3,PRINCIPAL
+Televiseurs,901,3.2,5.4,PRINCIPAL
+Televiseurs,902,201.5,250.1,PRINCIPAL
+Televiseurs,903,85.4,78.0,PRINCIPAL
+Televiseurs,904,279.6,,PRINCIPAL
+Televiseurs,905,388.1,398.5,PRINCIPAL
+Televiseurs,907,258.0,195.7,PRINCIPAL
+Televiseurs,908,115.4,118.1,PRINCIPAL
+Televiseurs,909,26.2,30.6,PRINCIPAL
+Televiseurs,910,116.1,,PRINCIPAL
+Televiseurs,911,20.1,26.2,PRINCIPAL
+Televiseurs,912,,248.1,PRINCIPAL
+Televiseurs,921,,13.4,PRINCIPAL
+Televiseurs,922,,275.7,PRINCIPAL
+Televiseurs,1001,124.8,103.8,PRINCIPAL
+Televiseurs,1002,24.9,30.3,PRINCIPAL
+Televiseurs,1003,104.5,150.0,PRINCIPAL
+Televiseurs,1004,47.2,39.9,PRINCIPAL
+Televiseurs,1005,50.8,44.5,PRINCIPAL
+Televiseurs,1006,208.6,195.2,PRINCIPAL
+Televiseurs,1007,130.0,124.0,PRINCIPAL
+Televiseurs,1008,102.5,,PRINCIPAL
+Televiseurs,1009,132.6,173.7,PRINCIPAL
+Televiseurs,1010,354.9,434.3,PRINCIPAL
+Televiseurs,1011,553.7,364.3,PRINCIPAL
+Televiseurs,201,37.6,33.6,SECONDAIRE
+Televiseurs,201,13.9,10.5,SECONDAIRE
+Televiseurs,202,49.0,34.2,SECONDAIRE
+Televiseurs,205,22.5,26.6,SECONDAIRE
+Televiseurs,210,132.7,75.4,SECONDAIRE
+Televiseurs,301,5.1,5.2,SECONDAIRE
+Televiseurs,302,33.6,25.5,SECONDAIRE
+Televiseurs,303,153.3,133.4,SECONDAIRE
+Televiseurs,406,24.6,23.2,SECONDAIRE
+Televiseurs,406,0.0,40.0,SECONDAIRE
+Televiseurs,501,81.6,,SECONDAIRE
+Televiseurs,503,230.5,80.5,SECONDAIRE
+Televiseurs,507,10.4,9.0,SECONDAIRE
+Televiseurs,510,3.5,4.7,SECONDAIRE
+Televiseurs,602,380.6,448.4,SECONDAIRE
+Televiseurs,602,47.1,32.4,SECONDAIRE
+Televiseurs,705,193.6,117.5,SECONDAIRE
+Televiseurs,708,0.7,,SECONDAIRE
+Televiseurs,722,,98.7,SECONDAIRE
+Televiseurs,806,62.0,53.9,SECONDAIRE
+Televiseurs,823,,35.8,SECONDAIRE
+Televiseurs,907,48.6,43.7,SECONDAIRE
+Televiseurs,910,3.4,,SECONDAIRE
+Televiseurs,912,73.6,28.6,SECONDAIRE
+Televiseurs,1006,34.8,42.7,SECONDAIRE
+Televiseurs,1011,11.3,21.8,SECONDAIRE
+Tondeuse,204,6.2,3.3,
+Tondeuse,1005,5.1,1.1,
+Tondeuse,821,,0.9,
+Ventilation,101,0.0,0.0,
+Ventilation,103,277.7,259.2,
+Ventilation,108,72.8,,
+Ventilation,201,156.6,121.1,
+Ventilation,202,188.2,184.2,
+Ventilation,204,272.2,275.1,
+Ventilation,205,299.3,290.5,
+Ventilation,206,70.9,68.3,
+Ventilation,207,246.0,246.4,
+Ventilation,209,89.7,92.2,
+Ventilation,210,507.6,504.9,
+Ventilation,305,25.8,25.8,
+Ventilation,308,,82.5,
+Ventilation,311,184.3,168.1,
+Ventilation,401,205.9,,
+Ventilation,410,297.0,292.3,
+Ventilation,502,251.9,251.2,
+Ventilation,503,0.0,0.0,
+Ventilation,504,45.4,189.2,
+Ventilation,505,605.4,401.5,
+Ventilation,508,112.4,108.9,
+Ventilation,601,150.8,125.8,
+Ventilation,605,398.1,431.0,
+Ventilation,608,224.2,224.6,
+Ventilation,620,,42.5,
+Ventilation,701,384.0,,
+Ventilation,702,304.4,298.8,
+Ventilation,703,201.6,182.1,
+Ventilation,704,340.5,341.2,
+Ventilation,705,321.0,301.0,
+Ventilation,706,68.4,65.6,
+Ventilation,707,85.1,51.1,
+Ventilation,709,245.2,251.0,
+Ventilation,720,,204.7,
+Ventilation,721,,204.6,
+Ventilation,722,,217.4,
+Ventilation,801,54.9,50.0,
+Ventilation,802,488.8,,
+Ventilation,803,883.1,831.4,
+Ventilation,804,253.1,397.7,
+Ventilation,808,282.5,,
+Ventilation,809,33.1,,
+Ventilation,810,,260.0,
+Ventilation,902,123.8,119.9,
+Ventilation,906,379.4,,
+Ventilation,911,215.2,291.5,
+Ventilation,912,93.1,94.4,
+Ventilation,921,,194.5,
+Ventilation,1001,240.9,,
+Ventilation,1004,254.7,207.8,
+Ventilation,1005,179.2,168.1,
+Ventilation,1006,324.7,312.4,
+Ventilation,1007,469.0,470.0,
+Ventilation,1009,526.0,490.0,
+Ventilation,1010,119.1,94.6,
