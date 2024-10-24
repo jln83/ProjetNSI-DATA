@@ -8,7 +8,7 @@ add_logo(r"images/cat-64.png", height=50)
 jeremy_mention = mention(label="Jeremy",
                          url="https://github.com/JeremyMrz", write=False)
 julian_mention = mention(label="Julian",
-                         url="https://github.com/jln83", write=False)
+                         url="https://github.com/dxydrexm", write=False)
 tristan_mention = mention(label="Tristan",
                           url="https://github.com/Patatosaurus666", write=False)
 columns1, columns2 = st.columns(2)
